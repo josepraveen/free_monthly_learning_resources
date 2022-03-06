@@ -1,4 +1,4 @@
-January 2022
+March 2022
 -------------------------------------
 Get 5 free courses every week https://learn.pluralsight.com/resource/free-course/free-weekly-course
 
@@ -6,11 +6,19 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-ITProTv free weekend https://twitter.com/ITProTV/status/1480964999392673798
+ITProTv CISCO free weekend https://www.youtube.com/watch?v=u3dm7P1Bjeo
 
-Microsoft free training https://www.microsoft.com/en-us/trainingdays
+Microsoft free training https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx https://pulse.microsoft.com/sv-se/microsoft-spring-skills-challenge/
 
 New updates coming soon.
+
+Scholarships 2022
+-----------------------------
+https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
+
+https://www.udacity.com/scholarships/standard-chartered
+
+
 
 DISCLAIMER: please read the privacy policy of above mentioned websites.
 --------------------------------------------------------------------------------------
