@@ -20,7 +20,7 @@ https://www.udacity.com/scholarships/standard-chartered
 
 
 
-DISCLAIMER: please read the privacy policy, elibility criteria of above the mentioned websites.
+DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
 For latest updates, follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
 
