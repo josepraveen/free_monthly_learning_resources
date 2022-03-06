@@ -18,7 +18,13 @@ https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersec
 
 https://www.udacity.com/scholarships/standard-chartered
 
+https://www.udacity.com/scholarships/citi-scholarship-program
 
+https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
+
+https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
+
+https://iamcybersafe.org/s/scholarships
 
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
