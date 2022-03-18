@@ -6,9 +6,14 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-ITProTv CISCO free weekend https://www.youtube.com/watch?v=u3dm7P1Bjeo
+ITProTv CISCO free weekend https://twitter.com/ITProTV/status/1504135158219296780
 
 Microsoft free training https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx https://pulse.microsoft.com/sv-se/microsoft-spring-skills-challenge/
+
+https://trailhead.salesforce.com/en/credentials/cert-days/
+
+https://rbcdsai.iitm.ac.in/work-with-us/#internships
+
 
 New updates coming soon.
 
@@ -25,6 +30,17 @@ https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
 
 https://iamcybersafe.org/s/scholarships
+
+https://www.udacity.com/scholarships/oneten-bit-scholarship
+
+https://www.udacity.com/scholarships/vodacom-lesotho-foundation
+
+https://www.linkedin.com/posts/udacity_nomuinitiative-activity-6909389937410805760-o-c7
+
+https://www.linkedin.com/feed/update/urn:li:share:6907822833813307392
+
+https://foundation.blacksintechnology.net/udacity-milwaukee/
+
 
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
