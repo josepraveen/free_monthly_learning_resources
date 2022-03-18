@@ -35,8 +35,6 @@ https://www.udacity.com/scholarships/oneten-bit-scholarship
 
 https://www.udacity.com/scholarships/vodacom-lesotho-foundation
 
-https://www.linkedin.com/posts/udacity_nomuinitiative-activity-6909389937410805760-o-c7
-
 https://www.linkedin.com/feed/update/urn:li:share:6907822833813307392
 
 https://foundation.blacksintechnology.net/udacity-milwaukee/
