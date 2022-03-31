@@ -20,8 +20,8 @@ Oracle free certification exam https://www.linkedin.com/posts/oracle-university_
 Scholarships 2022
 -----------------------------
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
-
-https://www.udacity.com/scholarships/standard-chartered
+ 
+https://www.udacity.com/scholarships/standard-chartered (Data Scientist, Full Stack Software Engineer, Blockchain Developer)
 
 https://www.udacity.com/scholarships/citi-scholarship-program
 
