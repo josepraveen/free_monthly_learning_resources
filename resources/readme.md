@@ -6,7 +6,7 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-ITProTv CISCO free weekend  
+ITProTv free weekend  (New updates coming soon.)
 
 Microsoft free training https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx https://pulse.microsoft.com/sv-se/microsoft-spring-skills-challenge/
 
@@ -16,9 +16,6 @@ https://rbcdsai.iitm.ac.in/work-with-us/#internships
 
 Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
 
-
-
-New updates coming soon.
 
 Scholarships 2022
 -----------------------------
