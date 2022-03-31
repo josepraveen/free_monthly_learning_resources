@@ -17,7 +17,9 @@ https://rbcdsai.iitm.ac.in/work-with-us/#internships
 Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
 
 Alibaba Cloud Free training & exam 
+
 ACA Cloud Computing Certification Exam https://alibaba.zoom.us/webinar/register/8116473120051/WN_SzvhR8RyTDG5UtWFFoz_1g  
+
 ACA System Operator Certification Exam https://alibaba.zoom.us/webinar/register/6616473119653/WN_hiLAy2liTPiChILQ14b0Hw
 
 Scholarships 2022
