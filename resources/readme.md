@@ -62,6 +62,7 @@ https://www.sans.org/mlp/cyber-workforce-academy-maryland/
 
 https://www.sans.org/press/announcements/sans-institute-donates-cybersecurity-training-certification-exams-rural-technology-fund-scholarship/
 
+https://training.linuxfoundation.org/blog/apply-for-a-linux-foundation-training-scholarship-by-april-30/
 
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
