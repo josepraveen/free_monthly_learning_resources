@@ -22,6 +22,8 @@ ACA Cloud Computing Certification Exam https://alibaba.zoom.us/webinar/register/
 
 ACA System Operator Certification Exam https://alibaba.zoom.us/webinar/register/6616473119653/WN_hiLAy2liTPiChILQ14b0Hw
 
+https://www.pluralsight.com/techskillsday
+
 Scholarships 2022
 -----------------------------
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
@@ -63,6 +65,8 @@ https://www.sans.org/mlp/cyber-workforce-academy-maryland/
 https://www.sans.org/press/announcements/sans-institute-donates-cybersecurity-training-certification-exams-rural-technology-fund-scholarship/
 
 https://training.linuxfoundation.org/blog/apply-for-a-linux-foundation-training-scholarship-by-april-30/
+
+https://www.udacity.com/scholarships/infosys-tech-scholars-program
 
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
