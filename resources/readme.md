@@ -6,7 +6,7 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-ITProTv free weekend  (New updates coming soon.)
+ITProTv free weekend  https://app.itpro.tv/plans/free-signup/
 
 Microsoft free training https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx https://pulse.microsoft.com/sv-se/microsoft-spring-skills-challenge/
 
