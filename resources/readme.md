@@ -8,7 +8,9 @@ Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-ac
 
 ITProTv free weekend  https://app.itpro.tv/plans/free-signup/
 
-Microsoft free training https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx https://pulse.microsoft.com/sv-se/microsoft-spring-skills-challenge/
+Microsoft free training https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
+
+https://pulse.microsoft.com/sv-se/microsoft-spring-skills-challenge/
 
 https://trailhead.salesforce.com/en/credentials/cert-days/
 
@@ -69,6 +71,8 @@ https://training.linuxfoundation.org/blog/apply-for-a-linux-foundation-training-
 https://www.udacity.com/scholarships/infosys-tech-scholars-program
 
 https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
+
+https://aws.amazon.com/machine-learning/scholarship/
 
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
