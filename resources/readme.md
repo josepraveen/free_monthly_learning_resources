@@ -8,9 +8,7 @@ Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-ac
 
 ITProTv free weekend  https://app.itpro.tv/plans/free-signup/
 
-Microsoft free training https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
-
-https://pulse.microsoft.com/sv-se/microsoft-spring-skills-challenge/
+Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
 https://trailhead.salesforce.com/en/credentials/cert-days/
 
