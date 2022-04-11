@@ -68,6 +68,8 @@ https://training.linuxfoundation.org/blog/apply-for-a-linux-foundation-training-
 
 https://www.udacity.com/scholarships/infosys-tech-scholars-program
 
+https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
+
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
 For latest updates, follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
