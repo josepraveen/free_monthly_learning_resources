@@ -30,13 +30,9 @@ Scholarships 2022
 -----------------------------
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
   
-https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
-
 https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
 
 https://iamcybersafe.org/s/scholarships
-
-https://www.udacity.com/scholarships/vodacom-lesotho-foundation
 
 https://www.microsoft.com/en-us/diversity/programs/bam-scholarship.aspx
 
@@ -60,11 +56,16 @@ https://www.sans.org/press/announcements/sans-institute-donates-cybersecurity-tr
 
 https://training.linuxfoundation.org/blog/apply-for-a-linux-foundation-training-scholarship-by-april-30/
 
-https://www.udacity.com/scholarships/infosys-tech-scholars-program
-
 https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
 
 https://aws.amazon.com/machine-learning/scholarship/
+
+
+https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
+
+https://www.udacity.com/scholarships/vodacom-lesotho-foundation
+
+https://www.udacity.com/scholarships/infosys-tech-scholars-program
 
 https://www.udacity.com/scholarships/cognizant-skills-accelerator-program
 
