@@ -29,9 +29,7 @@ https://www.pluralsight.com/techskillsday
 Scholarships 2022
 -----------------------------
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
- 
-https://www.udacity.com/scholarships/standard-chartered (Data Scientist, Full Stack Software Engineer, Blockchain Developer)
-
+  
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
