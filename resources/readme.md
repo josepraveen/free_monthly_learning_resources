@@ -74,6 +74,8 @@ https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
 
 https://aws.amazon.com/machine-learning/scholarship/
 
+https://www.udacity.com/scholarships/cognizant-skills-accelerator-program
+
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
 For latest updates, follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
