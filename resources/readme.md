@@ -32,15 +32,11 @@ https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersec
  
 https://www.udacity.com/scholarships/standard-chartered (Data Scientist, Full Stack Software Engineer, Blockchain Developer)
 
-https://www.udacity.com/scholarships/citi-scholarship-program
-
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
 
 https://iamcybersafe.org/s/scholarships
-
-https://www.udacity.com/scholarships/oneten-bit-scholarship
 
 https://www.udacity.com/scholarships/vodacom-lesotho-foundation
 
@@ -51,8 +47,6 @@ https://foundation.blacksintechnology.net/udacity-milwaukee/
 https://research.google/outreach/phd-fellowship/
 
 https://www.techup.ae/specializations
-
-https://www.udacity.com/scholarships/microsoft-cloud-data-scholarship
 
 https://rare.withgoogle.com/program/creative-fellowship/#faqs
 
