@@ -1,5 +1,8 @@
 April 2022
 -------------------------------------
+
+Pluralsight free weekend https://www.pluralsight.com/offer/2022/q2-free-week
+
 Get 5 free courses every week https://learn.pluralsight.com/resource/free-course/free-weekly-course
 
 Access 5 free courses every month https://www.pluralsight.com/offer/free-tech-skills
