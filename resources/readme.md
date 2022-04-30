@@ -15,9 +15,7 @@ ITProTv free weekend
 
 #### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
-https://trailhead.salesforce.com/en/credentials/cert-days/
-
-https://rbcdsai.iitm.ac.in/work-with-us/#internships
+#### Salesforce Certification Days https://trailhead.salesforce.com/en/credentials/cert-days/
 
 #### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
 
@@ -77,7 +75,7 @@ https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
 ## DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 
-#### For latest updates, do follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
+#### Share this github repository in your linkedin and twitter. For latest updates, do follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
 
 
 
