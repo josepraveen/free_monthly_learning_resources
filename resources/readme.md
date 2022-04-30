@@ -77,9 +77,9 @@ https://www.udacity.com/scholarships/shell-train-to-hire-scholarship-program
 
 https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
-DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
---------------------------------------------------------------------------------------
-For latest updates, do follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
+## DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
+
+#### For latest updates, do follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
 
 
 
