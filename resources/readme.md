@@ -11,7 +11,7 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-ITProTv free weekend (April 23 - 24, 2022) https://www.youtube.com/watch?v=6Khd27yVQGk
+ITProTv free weekend 
 
 Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
