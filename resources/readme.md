@@ -13,15 +13,15 @@ Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-ac
 
 ITProTv free weekend 
 
-Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
+#### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
 https://trailhead.salesforce.com/en/credentials/cert-days/
 
 https://rbcdsai.iitm.ac.in/work-with-us/#internships
 
-Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
+#### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
 
-Alibaba Cloud Free training & exam 
+#### Alibaba Cloud Free training & exam 
 
 ACA Cloud Computing Certification Exam https://alibaba.zoom.us/webinar/register/8116473120051/WN_SzvhR8RyTDG5UtWFFoz_1g  
 
@@ -63,8 +63,8 @@ https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
 
 https://aws.amazon.com/machine-learning/scholarship/
 
-Udacity Scholarships
--------------------------
+#### Udacity Scholarships
+
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 https://www.udacity.com/scholarships/vodacom-lesotho-foundation
