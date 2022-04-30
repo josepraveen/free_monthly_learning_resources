@@ -63,7 +63,8 @@ https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
 
 https://aws.amazon.com/machine-learning/scholarship/
 
-
+Udacity Scholarships
+-------------------------
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 https://www.udacity.com/scholarships/vodacom-lesotho-foundation
@@ -78,7 +79,7 @@ https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
 DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
 --------------------------------------------------------------------------------------
-For latest updates, follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
+For latest updates, do follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
 
 
 
