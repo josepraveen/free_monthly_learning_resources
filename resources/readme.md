@@ -35,8 +35,6 @@ https://iamcybersafe.org/s/scholarships
 
 https://www.microsoft.com/en-us/diversity/programs/bam-scholarship.aspx
 
-https://foundation.blacksintechnology.net/udacity-milwaukee/
-
 https://research.google/outreach/phd-fellowship/
 
 https://www.techup.ae/specializations
@@ -62,8 +60,6 @@ https://aws.amazon.com/machine-learning/scholarship/
 #### Udacity Scholarships
 
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
-
-https://www.udacity.com/scholarships/vodacom-lesotho-foundation
 
 https://www.udacity.com/scholarships/infosys-tech-scholars-program
 
