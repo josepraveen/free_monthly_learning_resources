@@ -23,10 +23,8 @@ https://rbcdsai.iitm.ac.in/work-with-us/#internships
 
 #### Alibaba Cloud Free training & exam 
 
-ACA Cloud Computing Certification Exam https://alibaba.zoom.us/webinar/register/8116473120051/WN_SzvhR8RyTDG5UtWFFoz_1g  
-
-ACA System Operator Certification Exam https://alibaba.zoom.us/webinar/register/6616473119653/WN_hiLAy2liTPiChILQ14b0Hw
-
+##### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
+ 
 https://www.pluralsight.com/techskillsday
 
 Scholarships 2022
