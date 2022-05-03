@@ -12,7 +12,7 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-ITProTv free weekend 
+ITProTv free weekend {coming soon}
 
 #### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
