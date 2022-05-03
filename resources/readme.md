@@ -1,6 +1,6 @@
 May 2022
 -------------------------------------
-Free access to top Projects/Professional Certificates, Specializations or courses from Google Cloud. Valid until 5/29/2022. Limit 1 voucher per learner up to 30k learners. https://www.coursera.org/promo/learn-gc-projects-launch-2022
+Free access to top Projects/Professional Certificates, Specializations or courses from Google Cloud. Valid until 5/29/2022. Limit 1 voucher per learner up to 30k learners. Projects/courses free for 180 days from enrollment. Specialization/Professional Certificates free for 1st month. Read Terms & Conditions. https://www.coursera.org/promo/learn-gc-projects-launch-2022
 
 {Expired}Pluralsight free week https://www.pluralsight.com/offer/2022/q2-free-week
 
