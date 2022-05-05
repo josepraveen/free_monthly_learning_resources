@@ -14,6 +14,8 @@ Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-ac
 
 ITProTv free weekend {coming soon}
 
+#### Microsoft Advertising three certifications now available for free. https://learninglab.about.ads.microsoft.com/training/training-certification/
+
 #### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
 #### Salesforce Certification Days https://trailhead.salesforce.com/en/credentials/cert-days/
