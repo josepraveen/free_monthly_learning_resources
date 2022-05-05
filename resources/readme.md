@@ -28,6 +28,8 @@ ITProTv free weekend {coming soon}
  
 https://www.pluralsight.com/techskillsday
 
+
+
 Scholarships 2022
 -----------------------------
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
