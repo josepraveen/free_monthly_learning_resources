@@ -1,5 +1,13 @@
 May 2022
 -------------------------------------
+Anyone who registers by May 15 for a NCA, NCP, or NCM exam using code NTXRF22C will get a FREE Nutanix certification exam.
+
+AWS She Builds presents AWS CloudUp https://awsshebuildscloudupcpe.splashthat.com/
+
+Cloud Skills Challenge https://www.microsoft.com/en-au/business/learn/cloud-training-events/cloud-skills-challenge/
+
+Attention #cybersecurity🚨 techs! Do you want 50% off exam vouchers 🤷♂️? Or 100% off if you are a CyberForce member? https://www.linkedin.com/posts/sladepeel_cybersecurity-activity-6927778363277291520-dYNE
+
 cloudxlab all self-paced courses free till may 31st https://cloudxlab.com/home
 
 Coursera Free access to top Projects/Professional Certificates, Specializations or courses from Google Cloud. Valid until 5/29/2022. Limit 1 voucher per learner up to 30k learners. Projects/courses free for 180 days from enrollment. Specialization/Professional Certificates free for 1st month. Read Terms & Conditions. https://www.coursera.org/promo/learn-gc-projects-launch-2022
