@@ -1,5 +1,7 @@
 May 2022
 -------------------------------------
+50% off promotion for graduates of Google’s Cloud Digital Leader certification exam https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
+
 Anyone who registers by May 15 for a NCA, NCP, or NCM exam using code NTXRF22C will get a FREE Nutanix certification exam.
 
 AWS She Builds presents AWS CloudUp https://awsshebuildscloudupcpe.splashthat.com/
