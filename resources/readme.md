@@ -59,17 +59,7 @@ https://research.google/outreach/phd-fellowship/
 
 https://www.techup.ae/specializations
 
-https://rare.withgoogle.com/program/creative-fellowship/#faqs
-
-https://k2university.com/salesforce-fellowship-candidates/
-
-https://isaca.secure-platform.com/a/page/oitscholarship/aboutscholarships
-
 https://www.sans.org/mlp/cyber-workforce-academy-maryland/
-
-https://www.sans.org/press/announcements/sans-institute-donates-cybersecurity-training-certification-exams-rural-technology-fund-scholarship/
-
-https://training.linuxfoundation.org/blog/apply-for-a-linux-foundation-training-scholarship-by-april-30/
 
 https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
 
