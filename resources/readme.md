@@ -1,8 +1,11 @@
 May 2022
 -------------------------------------
 
-Microsoft Build Cloud Skills Challenge | May 2022 (a free Microsoft Certification exam voucher) https://www.microsoft.com/en-us/cloudskillschallenge/build/registration/2022
+SAS free training and exam voucher https://www.linkedin.com/posts/activity-6930716295428526080-uozO
 
+AWS Cloud practitioner 25% off exam voucher https://www.linkedin.com/posts/activity-6930413396488065024--zZQ/
+
+Microsoft free one exam voucher(associate/ expert) https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
 
 50% off promotion for graduates of Google’s Cloud Digital Leader certification exam https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
 
