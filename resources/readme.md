@@ -53,11 +53,7 @@ Scholarships 2022
 -----------------------------
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
   
-https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
-
 https://iamcybersafe.org/s/scholarships
-
-https://www.microsoft.com/en-us/diversity/programs/bam-scholarship.aspx
 
 https://research.google/outreach/phd-fellowship/
 
@@ -66,8 +62,6 @@ https://www.techup.ae/specializations
 https://rare.withgoogle.com/program/creative-fellowship/#faqs
 
 https://k2university.com/salesforce-fellowship-candidates/
-
-https://www.sydneyquantum.org/program/sqa-phd-scholarships/
 
 https://isaca.secure-platform.com/a/page/oitscholarship/aboutscholarships
 
@@ -84,10 +78,6 @@ https://aws.amazon.com/machine-learning/scholarship/
 #### Udacity Scholarships
 
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
-
-https://www.udacity.com/scholarships/infosys-tech-scholars-program
-
-https://www.udacity.com/scholarships/cognizant-skills-accelerator-program
 
 https://www.udacity.com/scholarships/shell-train-to-hire-scholarship-program
 
