@@ -45,9 +45,6 @@ ITProTv free weekend {coming soon}
 
 ##### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
  
-https://www.pluralsight.com/techskillsday
-
-
 
 Scholarships 2022
 -----------------------------
