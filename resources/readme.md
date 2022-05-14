@@ -1,5 +1,9 @@
 May 2022
 -------------------------------------
+## DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
+
+#### Share this github repository in your linkedin and twitter. For latest updates, do follow me in [linkedin]( https://www.linkedin.com/posts/activity-6930716295428526080-uozO). 
+
 
 ### ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
 
@@ -70,9 +74,6 @@ https://www.udacity.com/scholarships/shell-train-to-hire-scholarship-program
 
 https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
-## DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
-
-#### Share this github repository in your linkedin and twitter. For latest updates, do follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social"> 
 
 
 
