@@ -31,7 +31,7 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-ITProTv free weekend {coming soon}
+ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
 
 #### Microsoft Advertising three certifications now available for free. https://learninglab.about.ads.microsoft.com/training/training-certification/
 
