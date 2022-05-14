@@ -1,9 +1,9 @@
+#### Share this github repository on Facebook and Twitter. Follow me on [LinkedIn](https://www.linkedin.com/posts/activity-6930716295428526080-uozO) for the most recent updates.
+
 May 2022
 -------------------------------------
-## DISCLAIMER: please read the privacy policy, T&C of below the mentioned websites.
 
-#### Share this github repository in your linkedin and twitter. For latest updates, do follow me in [linkedin]( https://www.linkedin.com/posts/activity-6930716295428526080-uozO). 
-
+# DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
 ### ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
 
