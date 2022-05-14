@@ -1,6 +1,6 @@
 May 2022
 -------------------------------------
-## DISCLAIMER: please read the privacy policy, T&C of above the mentioned websites.
+## DISCLAIMER: please read the privacy policy, T&C of below the mentioned websites.
 
 #### Share this github repository in your linkedin and twitter. For latest updates, do follow me in [linkedin]( https://www.linkedin.com/posts/activity-6930716295428526080-uozO). 
 
