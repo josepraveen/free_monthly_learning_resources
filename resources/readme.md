@@ -5,11 +5,11 @@ May 2022
 
 #### Microsoft Advertising three certifications now available for free. https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
 
-SAS free training and exam voucher https://www.linkedin.com/posts/activity-6930716295428526080-uozO
+## SAS free training and exam voucher https://www.linkedin.com/posts/activity-6930716295428526080-uozO
 
-AWS Cloud practitioner 25% off exam voucher https://www.linkedin.com/posts/activity-6930413396488065024--zZQ/
+### AWS Cloud practitioner 25% off exam voucher https://www.linkedin.com/posts/activity-6930413396488065024--zZQ/
 
-Microsoft free one exam voucher per user (associate/ expert) https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
+### Microsoft free one exam voucher per user (associate/ expert) https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
 
 50% off promotion for graduates of Google’s Cloud Digital Leader certification exam https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
 
