@@ -1,6 +1,10 @@
 May 2022
 -------------------------------------
 
+#### ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
+
+#### Microsoft Advertising three certifications now available for free. https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
+
 SAS free training and exam voucher https://www.linkedin.com/posts/activity-6930716295428526080-uozO
 
 AWS Cloud practitioner 25% off exam voucher https://www.linkedin.com/posts/activity-6930413396488065024--zZQ/
@@ -30,10 +34,6 @@ Access 5 free courses every month https://www.pluralsight.com/offer/free-tech-sk
 Free eBook every day on the latest in tech https://www.packtpub.com/free-learning
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
-
-ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
-
-#### Microsoft Advertising three certifications now available for free. https://learninglab.about.ads.microsoft.com/training/training-certification/
 
 #### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
