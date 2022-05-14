@@ -13,7 +13,7 @@ Anyone who registers by May 15 for a NCA, NCP, or NCM exam using code NTXRF22C w
 
 AWS She Builds presents AWS CloudUp https://awsshebuildscloudupcpe.splashthat.com/
 
-Cloud Skills Challenge https://www.microsoft.com/en-au/business/learn/cloud-training-events/cloud-skills-challenge/
+Dynamics 365 Cloud Skills Challenge https://www.microsoft.com/en-au/business/learn/cloud-training-events/cloud-skills-challenge/
 
 Attention #cybersecurity🚨 techs! Do you want 50% off exam vouchers 🤷♂️? Or 100% off if you are a CyberForce member? https://www.linkedin.com/posts/sladepeel_cybersecurity-activity-6927778363277291520-dYNE
 
