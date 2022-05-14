@@ -13,9 +13,9 @@ May 2022
 
 50% off promotion for graduates of Google’s Cloud Digital Leader certification exam https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
 
-Anyone who registers by May 15 for a NCA, NCP, or NCM exam using code NTXRF22C will get a FREE Nutanix certification exam.
+### Anyone who registers by May 15 for a NCA, NCP, or NCM exam using code NTXRF22C will get a FREE Nutanix certification exam.
 
-AWS She Builds presents AWS CloudUp https://awsshebuildscloudupcpe.splashthat.com/
+### AWS She Builds presents AWS CloudUp https://awsshebuildscloudupcpe.splashthat.com/
 
 Dynamics 365 Cloud Skills Challenge https://www.microsoft.com/en-au/business/learn/cloud-training-events/cloud-skills-challenge/
 
@@ -35,15 +35,15 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-#### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
+### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
-#### Salesforce Certification Days https://trailhead.salesforce.com/en/credentials/cert-days/
+### Salesforce Certification Days https://trailhead.salesforce.com/en/credentials/cert-days/
 
-#### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
+### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
 
 #### Alibaba Cloud Free training & exam 
 
-##### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
+### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
  
 
 Scholarships 2022
