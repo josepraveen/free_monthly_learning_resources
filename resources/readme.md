@@ -5,7 +5,7 @@ May 2022
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Salesforce Certification Days https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
+### Salesforce Certification Days - May/ June '22 Schedule https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
 
 ### ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
 
