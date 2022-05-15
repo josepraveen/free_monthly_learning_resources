@@ -54,6 +54,9 @@ Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-ac
  
 Scholarships 2022
 -----------------------------
+
+### Google Africa Developer Scholarship 2022 https://www.linkedin.com/posts/activity-6931277412387225600-EsF-/
+
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
   
 https://iamcybersafe.org/s/scholarships
