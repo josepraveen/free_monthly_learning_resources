@@ -29,7 +29,19 @@ cloudxlab all self-paced courses free till may 31st https://cloudxlab.com/home
 
 Coursera Free access to top Projects/Professional Certificates, Specializations or courses from Google Cloud. Valid until 5/29/2022. Limit 1 voucher per learner up to 30k learners. Projects/courses free for 180 days from enrollment. Specialization/Professional Certificates free for 1st month. Read Terms & Conditions. https://www.coursera.org/promo/learn-gc-projects-launch-2022
 
-{Expired}Pluralsight free week https://www.pluralsight.com/offer/2022/q2-free-week
+### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
+
+### Salesforce Certification Days 
+
+### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
+
+#### Alibaba Cloud Free training & exam 
+
+### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
+
+
+Never Expires
+------------------------------
 
 Get 5 free courses every week https://learn.pluralsight.com/resource/free-course/free-weekly-course
 
@@ -39,17 +51,7 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free courses from A Cloud Guru https://acloudguru.com/blog/news/whats-free-at-acg
 
-### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
-
-### Salesforce Certification Days https://trailhead.salesforce.com/en/credentials/cert-days/
-
-### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
-
-#### Alibaba Cloud Free training & exam 
-
-### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
  
-
 Scholarships 2022
 -----------------------------
 https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
