@@ -5,6 +5,8 @@ May 2022
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Salesforce Certification Days https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
+
 ### ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
 
 ### Microsoft Advertising three certifications now available for free. https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
@@ -31,11 +33,9 @@ Coursera Free access to top Projects/Professional Certificates, Specializations 
 
 ### Microsoft free training and free exam voucher https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
 
-### Salesforce Certification Days 
+
 
 ### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
-
-#### Alibaba Cloud Free training & exam 
 
 ### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
 
