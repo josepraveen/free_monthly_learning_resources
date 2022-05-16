@@ -5,6 +5,8 @@ May 2022
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Alibaba Cloud Associate (ACA) Developer Certification free Training & free exam https://www.linkedin.com/posts/activity-6931828195839066112-2IdO/
+
 ### Salesforce Certification Days - May/ June '22 Schedule https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
 
 ### ITProTv Azure Free Weekend https://twitter.com/ITProTV/status/1524841959449411584
@@ -18,8 +20,6 @@ May 2022
 ### Microsoft free one exam voucher per user (associate/ expert) https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
 
 50% off promotion for graduates of Google’s Cloud Digital Leader certification exam https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
-
-### Anyone who registers by May 15 for a NCA, NCP, or NCM exam using code NTXRF22C will get a FREE Nutanix certification exam.
 
 ### AWS She Builds presents AWS CloudUp https://awsshebuildscloudupcpe.splashthat.com/
 
@@ -37,7 +37,6 @@ Coursera Free access to top Projects/Professional Certificates, Specializations 
 
 ### Oracle free certification exam https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
 
-### Alibaba Cloud Associate (ACA) Developer Certification Training https://alibaba.zoom.us/webinar/register/5816504459730/WN_la379Wu6QYmI16fl_2SROg
 
 
 Never Expires
