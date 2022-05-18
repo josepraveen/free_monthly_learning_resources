@@ -64,29 +64,19 @@ https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-69
 Scholarships 2022
 -----------------------------
 
+### AWS Artificial Intelligence (AI) and Machine Learning (ML) Scholarship program
+https://aws.amazon.com/machine-learning/scholarship/
+
 ### Google Africa Developer Scholarship 2022 
 https://www.linkedin.com/posts/activity-6931277412387225600-EsF-/
 
-https://www.infosecinstitute.com/scholarship-opportunities-for-aspiring-cybersecurity-professionals/
-  
-https://iamcybersafe.org/s/scholarships
-
-https://research.google/outreach/phd-fellowship/
-
-https://www.techup.ae/specializations
-
-https://www.sans.org/mlp/cyber-workforce-academy-maryland/
-
-https://www.crowdstrike.com/about-crowdstrike/nextgen-scholarship-program/
-
-https://aws.amazon.com/machine-learning/scholarship/
-
-#### Udacity Scholarships
-
+### High Tech Transition Pathway Scholarship 
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
+### Shell Train-to-Hire Scholarship Program
 https://www.udacity.com/scholarships/shell-train-to-hire-scholarship-program
 
+### AWS AI & ML Scholarship Program
 https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
 
