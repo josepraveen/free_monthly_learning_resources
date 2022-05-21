@@ -53,12 +53,10 @@ https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
 https://awsshebuildscloudupcpe.splashthat.com/
 
 ### Microsoft free training and free exam voucher 
-https://www.microsoft.com/en-in/campaign/MS-IndiaSkillingInitiative/sessions-details.aspx 
+https://www.linkedin.com/posts/activity-6933891706970849280-rx-7
 
 ### Oracle free certification exam 
-https://www.linkedin.com/posts/oracle-university_oci-oraclecertified-activity-6912291851328741376-_wma
-
-
+https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
 
  
 Scholarships 2022
