@@ -49,6 +49,8 @@ https://www.linkedin.com/posts/activity-6933891706970849280-rx-7
 ### Oracle free certification exam 
 https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
 
+### Weekly Cloud Challenge
+https://www.whizlabs.com/labs/challenge/
  
 Scholarships 2022
 -----------------------------
