@@ -13,12 +13,6 @@ https://www.packtpub.com/free-learning
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
 
-### Dynamics 365 Cloud Skills Challenge 
-https://www.microsoft.com/en-au/business/learn/cloud-training-events/cloud-skills-challenge/
-
-### Attention #cybersecurity🚨 techs! Do you want 50% off exam vouchers 🤷♂️? Or 100% off if you are a CyberForce member? 
-https://www.linkedin.com/posts/sladepeel_cybersecurity-activity-6927778363277291520-dYNE
-
 ### cloudxlab all self-paced courses free till may 31st 
 https://cloudxlab.com/home
 
