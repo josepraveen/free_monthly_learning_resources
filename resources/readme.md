@@ -43,9 +43,6 @@ https://www.linkedin.com/posts/activity-6930413396488065024--zZQ/
 ### Microsoft free one exam voucher per user (associate/ expert)
 https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
 
-### AWS She Builds presents AWS CloudUp 
-https://awsshebuildscloudupcpe.splashthat.com/
-
 ### Microsoft free training and free exam voucher 
 https://www.linkedin.com/posts/activity-6933891706970849280-rx-7
 
