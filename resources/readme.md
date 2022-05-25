@@ -52,6 +52,12 @@ https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
 
 ### Weekly Cloud Challenge
 https://www.whizlabs.com/labs/challenge/
+
+### ACA Big Data Certification Training & Exam - Free
+https://www.linkedin.com/posts/activity-6935072735249190912-pmkN/
+
+### Sub-Saharan Africa - Cloud Practitioner Exam Free
+https://www.linkedin.com/posts/activity-6935069349913202688-pohk/
  
 Scholarships 2022
 -----------------------------
