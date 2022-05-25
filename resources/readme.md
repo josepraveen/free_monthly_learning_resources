@@ -23,9 +23,6 @@ https://www.coursera.org/promo/learn-gc-projects-launch-2022
 ###  50% off promotion for graduates of Google’s Cloud Digital Leader certification exam 
 https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
 
-### Alibaba Cloud Associate (ACA) Developer Certification free training & free exam
-https://www.linkedin.com/posts/activity-6931828195839066112-2IdO/
-
 ### Salesforce Certification Days - May/ June '22 Schedule 
 https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
 
@@ -53,7 +50,7 @@ https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
 ### Weekly Cloud Challenge
 https://www.whizlabs.com/labs/challenge/
 
-### ACA Big Data Certification Training & Exam - Free
+### ACA Big Data Certification free training & free exam
 https://www.linkedin.com/posts/activity-6935072735249190912-pmkN/
 
 ### Sub-Saharan Africa - Cloud Practitioner Exam Free
