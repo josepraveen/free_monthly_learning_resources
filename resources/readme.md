@@ -57,13 +57,13 @@ https://aws.amazon.com/machine-learning/scholarship/
 https://www.linkedin.com/posts/activity-6931277412387225600-EsF-/
 
 ### High Tech Transition Pathway Scholarship 
-https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
+https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
 ### Shell Train-to-Hire Scholarship Program
 https://www.udacity.com/scholarships/shell-train-to-hire-scholarship-program
 
 ### AWS AI & ML Scholarship Program
-https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
+https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 ### Polygon Fellowship Class of 2022 {Exclusive 8-week mentor-led program for you to take the next step in your Web3 Development Journey.}
 https://polygon.technology/polygon-fellowship/
