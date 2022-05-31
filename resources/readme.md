@@ -1,8 +1,6 @@
-#### Share this github repository on Facebook and Twitter. Follow me on [LinkedIn](https://www.linkedin.com/posts/activity-6930716295428526080-uozO) for the most recent updates.
+### Share this github repository on Facebook and Twitter. Follow me on [LinkedIn](https://www.linkedin.com/posts/activity-6930716295428526080-uozO) for the most recent updates.
 
-# Upskill Calendar - May 2022
-
-## DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
+# DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
 
 ### Get 5 free courses every month 
@@ -74,6 +72,8 @@ https://www.udacity.com/scholarships/shell-train-to-hire-scholarship-program
 ### AWS AI & ML Scholarship Program
 https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
+### Polygon Fellowship Class of 2022 {Exclusive 8-week mentor-led program for you to take the next step in your Web3 Development Journey.}
+https://polygon.technology/polygon-fellowship/
 
 
 
