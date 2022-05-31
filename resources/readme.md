@@ -12,20 +12,13 @@ https://www.packtpub.com/free-learning
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
 
-### cloudxlab all self-paced courses free till may 31st 
-https://cloudxlab.com/home
-
-###  Coursera Free access to top Projects/Professional Certificates, Specializations or courses from Google Cloud. Valid until 5/29/2022. Limit 1 voucher per learner up to 30k learners. Projects/courses free for 180 days from enrollment. Specialization/Professional Certificates free for 1st month. Read Terms & Conditions. 
-https://www.coursera.org/promo/learn-gc-projects-launch-2022
-
 ###  50% off promotion for graduates of Google’s Cloud Digital Leader certification exam 
 https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
 
-### Salesforce Certification Days - May/ June '22 Schedule 
+### Salesforce Certification Days - June '22 Schedule 
 https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
 
-### ITProTv Azure Free Weekend 
-https://twitter.com/ITProTV/status/1524841959449411584
+### ITProTv Azure Free Weekend {coming soon}
 
 ### Microsoft Advertising three certifications now available for free. 
 https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
