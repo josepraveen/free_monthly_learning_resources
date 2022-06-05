@@ -29,13 +29,13 @@ https://www.linkedin.com/posts/activity-6930716295428526080-uozO
 ### AWS Cloud practitioner 25% off exam voucher 
 https://www.linkedin.com/posts/activity-6930413396488065024--zZQ/
 
-### Microsoft free one exam voucher per user (associate/ expert)
+### Microsoft Azure free one exam voucher per user (associate/ expert)
 https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
 
-### Microsoft free training and free exam voucher 
+### Microsoft Azure fundamentals free training and free exam voucher 
 https://www.linkedin.com/posts/activity-6933891706970849280-rx-7
 
-### Oracle free certification exam 
+### Oracle Cloud free certification exam 
 https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
 
 ### Weekly Cloud Challenge
