@@ -68,5 +68,8 @@ https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 ### Polygon Fellowship Class of 2022 {Exclusive 8-week mentor-led program for you to take the next step in your Web3 Development Journey.}
 https://polygon.technology/polygon-fellowship/
 
+### Bosch AI Talent Accelerator
+https://www.udacity.com/scholarships/bosch-ai-talent-accelerator
+
 
 
