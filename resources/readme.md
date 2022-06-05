@@ -18,7 +18,7 @@ https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for
 ### Salesforce Certification Days - June '22 Schedule 
 https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
 
-### ITProTv Azure Free Weekend {coming soon}
+### ITProTv Project Management Free Weekend On June 11–12, 2022
 
 ### Microsoft Advertising three certifications now available for free. 
 https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
