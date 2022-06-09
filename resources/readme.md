@@ -12,22 +12,23 @@ https://www.packtpub.com/free-learning
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
 
-###  50% off promotion for graduates of Google’s Cloud Digital Leader certification exam 
-https://udacity.zendesk.com/hc/en-us/articles/5981575246733-50-off-promotion-for-graduates-of-Google-s-Cloud-Digital-Leader-certification-exam
+### Offensive Security (PEN-200) free training 
+https://www.linkedin.com/posts/activity-6940693120611225600-jFLe
+
+### CertiProf is still offering FREE certifications (total 4 certifications)
+https://www.linkedin.com/posts/activity-6940691067738497024-7ZmT
 
 ### Salesforce Certification Days - June '22 Schedule 
 https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
 
-### ITProTv Project Management Free Weekend On June 11–12, 2022
+### ITProTv Project Management Free Weekend On June 11–12, 2022 
+https://twitter.com/ITProTV/status/1534239273913831424
 
 ### Microsoft Advertising three certifications now available for free. 
 https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
 
 ### SAS free training and exam voucher 
 https://www.linkedin.com/posts/activity-6930716295428526080-uozO
-
-### AWS Cloud practitioner 25% off exam voucher 
-https://www.linkedin.com/posts/activity-6930413396488065024--zZQ/
 
 ### Microsoft Azure free one exam voucher per user (associate/ expert)
 https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
