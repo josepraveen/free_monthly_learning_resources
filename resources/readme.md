@@ -56,9 +56,7 @@ Scholarships 2022
 
 ### AWS Artificial Intelligence (AI) and Machine Learning (ML) Scholarship program
 https://aws.amazon.com/machine-learning/scholarship/
-
-### Google Africa Developer Scholarship 2022 
-https://www.linkedin.com/posts/activity-6931277412387225600-EsF-/
+ 
 
 ### High Tech Transition Pathway Scholarship 
 https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
