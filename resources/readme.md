@@ -12,6 +12,9 @@ https://www.packtpub.com/free-learning
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
 
+### Nutanix FREE Certification Exams for Online Training Students through August 16
+https://www.nutanix.com/support-services/training-certification/NUsummerschool
+
 ### June Month Infosec Challenge 
 https://www.linkedin.com/posts/activity-6939422474547642368-wO6p
 
