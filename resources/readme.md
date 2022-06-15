@@ -60,10 +60,6 @@ Scholarships 2022
 ### AWS Artificial Intelligence (AI) and Machine Learning (ML) Scholarship program
 https://aws.amazon.com/machine-learning/scholarship/
  
-
-### High Tech Transition Pathway Scholarship 
-https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
-
 ### AWS AI & ML Scholarship Program
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
