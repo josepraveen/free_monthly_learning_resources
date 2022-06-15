@@ -64,9 +64,6 @@ https://aws.amazon.com/machine-learning/scholarship/
 ### High Tech Transition Pathway Scholarship 
 https://www.udacity.com/scholarships/high-tech-transition-pathway-scholarship
 
-### Shell Train-to-Hire Scholarship Program
-https://www.udacity.com/scholarships/shell-train-to-hire-scholarship-program
-
 ### AWS AI & ML Scholarship Program
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
