@@ -1,4 +1,4 @@
-### Share this github repository on Facebook and Twitter. Follow me on [LinkedIn](https://www.linkedin.com/posts/activity-6240234069586694144-Iw-s) for the most recent updates.
+### Share this github repository on Facebook and Twitter. Follow me on [LinkedIn](https://www.linkedin.com/posts/activity-6933891706970849280-rx-7) for the most recent updates.
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
@@ -11,6 +11,9 @@ https://www.packtpub.com/free-learning
 
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
+
+### AWS- DevSecOps 
+https://awsworkshop.io/categories/devsecops/
 
 ### Nutanix FREE Certification Exams for Online Training Students through August 16
 https://www.nutanix.com/support-services/training-certification/NUsummerschool
