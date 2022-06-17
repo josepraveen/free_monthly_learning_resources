@@ -1,4 +1,7 @@
-### Share this github repository on Facebook and Twitter. Follow me on [LinkedIn](https://www.linkedin.com/posts/activity-6933891706970849280-rx-7) for the most recent updates.
+### Share this github repository on Facebook and Twitter. Don't forget to star ⭐ this repository. 
+
+[![Generic badge](https://img.shields.io/badge/%20Follow%20me%20on%20LinkedIn-most%20recent%20updates-green.svg)](https://www.linkedin.com/posts/activity-6933891706970849280-rx-7)
+
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
