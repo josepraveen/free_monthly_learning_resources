@@ -49,7 +49,10 @@ https://www.linkedin.com/posts/activity-6930034455759794176-PUGA/
 https://www.linkedin.com/posts/activity-6933891706970849280-rx-7
 
 ### Oracle Cloud free certification exam 
+1) Oracle Cloud Foundations Associate 
 https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
+2) Oracle Cloud Data Management Foundations Associate
+https://learn.oracle.com/ols/learning-path/become-an-oracle-cloud-data-management-foundations-associate/35573/107013
 
 ### Weekly Cloud Challenge
 https://www.whizlabs.com/labs/challenge/
