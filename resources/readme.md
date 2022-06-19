@@ -15,6 +15,9 @@ https://www.packtpub.com/free-learning
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
 
+### AWS free learning
+https://explore.skillbuilder.aws/ (use the filter option)
+
 ### ServiceNow Fundamentals (Vouchers are valid for one year and are good for a non-transferable single use.)
 https://nowlearning.servicenow.com/lxp?id=learning_path_prev&path_id=6b78901c1b748050b1c7fe631a4bcb73
 
