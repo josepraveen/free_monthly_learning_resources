@@ -15,8 +15,9 @@ https://www.packtpub.com/free-learning
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
 
-### ML & DS - Live Sessions By Experts!
-https://dphi.tech/live-sessions/
+### 25+ free data science courses
+https://twitter.com/dphi_tech/status/1531278884695851008
+https://dphi.tech/live-sessions/ 
 
 ### Dataquest - This week only, we’ve unlocked all the content in our new Business Analyst Path
 https://twitter.com/dataquestio/status/1539006687658524673
