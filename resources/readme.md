@@ -17,7 +17,7 @@ https://acloudguru.com/blog/news/whats-free-at-acg
 
 ### 25+ free data science courses
 https://twitter.com/dphi_tech/status/1531278884695851008
-https://dphi.tech/live-sessions/ 
+
 
 ### Dataquest - This week only, we’ve unlocked all the content in our new Business Analyst Path
 https://twitter.com/dataquestio/status/1539006687658524673
