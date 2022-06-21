@@ -15,6 +15,9 @@ https://www.packtpub.com/free-learning
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
 
+### Dataquest - This week only, we’ve unlocked all the content in our new Business Analyst Path
+https://twitter.com/dataquestio/status/1539006687658524673
+
 ### AWS free learning
 https://explore.skillbuilder.aws/ (use the filter option)
 
