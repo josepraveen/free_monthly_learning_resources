@@ -87,11 +87,14 @@ https://aws.amazon.com/machine-learning/scholarship/
 ### AWS AI & ML Scholarship Program
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
-### Polygon Fellowship Class of 2022 {Exclusive 8-week mentor-led program for you to take the next step in your Web3 Development Journey.}
-https://polygon.technology/polygon-fellowship/
-
 ### Bosch AI Talent Accelerator
 https://www.udacity.com/scholarships/bosch-ai-talent-accelerator
+
+### AWS Machine Learning Engineer Scholarship Program
+https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program
+
+### Vodacom Mozambique STEM Scholarship Program
+https://www.udacity.com/scholarships/vodacom-mozambique-stem-scholarship-program
 
 
 
