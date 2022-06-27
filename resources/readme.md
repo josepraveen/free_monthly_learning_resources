@@ -2,6 +2,8 @@
 
 [![Generic badge](https://img.shields.io/badge/%20Follow%20me%20on%20LinkedIn-most%20recent%20updates-green.svg)](https://www.linkedin.com/posts/activity-6933891706970849280-rx-7)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources)
+
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
