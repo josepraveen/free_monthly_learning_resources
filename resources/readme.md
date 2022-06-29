@@ -7,6 +7,8 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+###  25 weeks of live Practical Network Penetration Tester exam training
+https://twitter.com/TCMSecurity/status/1537846268474626051
 
 ### Get 5 free courses every month 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
