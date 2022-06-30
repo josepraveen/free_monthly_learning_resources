@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### linkedin learning path
+https://opportunity.linkedin.com/skills-for-in-demand-jobs
+
 ###  25 weeks of live Practical Network Penetration Tester exam training
 https://twitter.com/TCMSecurity/status/1537846268474626051
 
