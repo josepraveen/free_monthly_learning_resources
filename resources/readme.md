@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWSreskill
+https://awsreskill.com/signup?source=993b423c&medium=direct
+
 ### linkedin learning path
 https://opportunity.linkedin.com/skills-for-in-demand-jobs
 
