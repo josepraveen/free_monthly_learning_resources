@@ -28,9 +28,6 @@ https://acloudguru.com/blog/news/whats-free-at-acg
 ### Get ahead with a select IBM Professional Certificate on Coursera. Your first month of learning is free.
 https://www.coursera.org/promo/ibmbuildtechcon
 
-### Machine Learning Bootcamp - India
-https://rsvp.withgoogle.com/events/google-ml-bootcamp-india
-
 ### 25+ free data science courses
 https://twitter.com/dphi_tech/status/1531278884695851008
 
