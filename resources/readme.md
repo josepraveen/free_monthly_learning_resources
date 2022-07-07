@@ -61,7 +61,7 @@ https://www.linkedin.com/posts/activity-6940691067738497024-7ZmT
 ### Salesforce Certification Days - June '22 Schedule 
 https://www.linkedin.com/posts/activity-6931463847669100544-OCB9/
 
-### ITProTv Project Management Free Weekend
+### ITProTv Free Weekend
 
 ### Microsoft Advertising three certifications now available for free. 
 https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
