@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Datacamp Free week
+https://twitter.com/DataCamp/status/1549122069941600259
+
 ### ITProTv Free Weekend July 16 - 17, 2022
 https://twitter.com/ITProTV/status/1546924108130156550
 
