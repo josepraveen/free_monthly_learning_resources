@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### July Month Infosec Challenge 
+https://www.linkedin.com/posts/activity-6955169985379917825-Bg_t/
+
 ### Datacamp Free week
 https://twitter.com/DataCamp/status/1549122069941600259
 
@@ -52,14 +55,11 @@ https://awsworkshop.io/categories/devsecops/
 ### Nutanix FREE Certification Exams for Online Training Students through August 16
 https://www.nutanix.com/support-services/training-certification/NUsummerschool
 
-### July Month Infosec Challenge 
-
 ### Offensive Security (PEN-200) free training 
 https://www.linkedin.com/posts/activity-6940693120611225600-jFLe
 
 ### CertiProf is still offering FREE certifications (total 4 certifications)
 https://www.linkedin.com/posts/activity-6940691067738497024-7ZmT
-
 
 ### Microsoft Advertising three certifications now available for free. 
 https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
