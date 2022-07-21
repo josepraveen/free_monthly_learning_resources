@@ -10,7 +10,7 @@
 ### July Month Infosec Challenge 
 https://www.linkedin.com/posts/activity-6955169985379917825-Bg_t/
 
-### Datacamp Free week
+### Datacamp Free week July 18 - 24, 2022
 https://twitter.com/DataCamp/status/1549122069941600259
 
 ### ITProTv Free Weekend July 16 - 17, 2022
