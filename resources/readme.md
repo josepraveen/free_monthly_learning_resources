@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### salesforce certification- for free voucher please read T&C
+https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
+
 ### July Month Infosec Challenge 
 https://www.linkedin.com/posts/activity-6955169985379917825-Bg_t/
 
