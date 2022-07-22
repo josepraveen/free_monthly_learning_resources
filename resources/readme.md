@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Automation Anywhere Certifications are now free until the 31st August 2022
+https://www.linkedin.com/posts/activity-6955899156548788224-Y-NF/
+
 ### salesforce certification- for free voucher please read T&C
 https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
 
