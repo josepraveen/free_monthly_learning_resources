@@ -7,6 +7,12 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWS Certified Cloud Practitioner Challenge
+https://www.linkedin.com/posts/activity-6957698345079308288-HR3O/
+
+### Microsoft certification training and exam for free
+https://www.linkedin.com/posts/activity-6958124124762247168-lFMT/
+
 ### Automation Anywhere Certifications are now free until the 31st August 2022
 https://www.linkedin.com/posts/activity-6955899156548788224-Y-NF/
 
