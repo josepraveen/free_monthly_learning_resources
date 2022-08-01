@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWS Certified: Developer Associate Challenge, exclusively for AWS Partners in EMEA
+https://www.linkedin.com/posts/activity-6959730938884882432-1rbv 
+
 ### AWS Certified Cloud Practitioner Challenge
 https://www.linkedin.com/posts/activity-6957698345079308288-HR3O/
 
@@ -88,6 +91,3 @@ https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 ### AWS Machine Learning Engineer Scholarship Program
 https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program
-
-### Vodacom Mozambique STEM Scholarship Program
-https://www.udacity.com/scholarships/vodacom-mozambique-stem-scholarship-program
