@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWSreskill
+https://awsreskill.com/signup?source=993b423c&medium=direct
+
 ### AWS Certified: Developer Associate Challenge, exclusively for AWS Partners in EMEA
 https://www.linkedin.com/posts/activity-6959730938884882432-1rbv 
 
@@ -22,17 +25,10 @@ https://www.linkedin.com/posts/activity-6955899156548788224-Y-NF/
 ### salesforce certification- for free voucher please read T&C
 https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
 
-### July Month Infosec Challenge 
-https://www.linkedin.com/posts/activity-6955169985379917825-Bg_t/
+### August Month Infosec Challenge 
 
-### Datacamp Free week July 18 - 24, 2022
-https://twitter.com/DataCamp/status/1549122069941600259
 
-### ITProTv Free Weekend July 16 - 17, 2022
-https://twitter.com/ITProTV/status/1546924108130156550
-
-### AWSreskill
-https://awsreskill.com/signup?source=993b423c&medium=direct
+### ITProTv Free Weekend 
 
 ### linkedin learning path
 https://opportunity.linkedin.com/skills-for-in-demand-jobs
