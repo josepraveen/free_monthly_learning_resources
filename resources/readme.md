@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Alibaba Cloud Associate Exam & Training - Free
+https://www.linkedin.com/posts/alibabacloudglobal_voucher-alibabacloud-alibabacloudacademy-activity-6960791574335168512-7Mqo
+
 ### AWSreskill
 https://awsreskill.com/signup?source=993b423c&medium=direct
 
