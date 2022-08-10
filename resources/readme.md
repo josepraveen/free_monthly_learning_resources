@@ -90,3 +90,6 @@ https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 ### AWS Machine Learning Engineer Scholarship Program
 https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program
+
+### Cognizant Skills Accelerator
+https://www.udacity.com/scholarships/cognizant-skills-accelerator-program
