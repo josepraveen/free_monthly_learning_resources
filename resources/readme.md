@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Pluralsight Free Weekend - August 12 - August 14th(expires at 11:59 p.m. MT) 
+https://www.pluralsight.com/offer/2022/q3-free-weekend
+
 ### August Month Infosec Challenge 
 https://www.linkedin.com/posts/activity-6962784960999043073-kFTX
 
