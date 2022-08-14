@@ -43,9 +43,6 @@ https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
 ### linkedin learning path
 https://opportunity.linkedin.com/skills-for-in-demand-jobs
 
-###  25 weeks of live Practical Network Penetration Tester exam training
-https://twitter.com/TCMSecurity/status/1537846268474626051
-
 ### Get 5 free courses every month 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
@@ -54,9 +51,6 @@ https://www.packtpub.com/free-learning
 
 ### Free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
-
-### 25+ free data science courses
-https://twitter.com/dphi_tech/status/1531278884695851008
 
 ### AWS free learning
 https://explore.skillbuilder.aws/ (use the filter option)
@@ -69,9 +63,6 @@ https://awsworkshop.io/categories/devsecops/
 
 ### Nutanix FREE Certification Exams for Online Training Students through August 16
 https://www.nutanix.com/support-services/training-certification/NUsummerschool
-
-### Offensive Security (PEN-200) free training 
-https://www.linkedin.com/posts/activity-6940693120611225600-jFLe
 
 ### CertiProf is still offering FREE certifications (total 4 certifications)
 https://www.linkedin.com/posts/activity-6940691067738497024-7ZmT
@@ -88,12 +79,6 @@ https://learn.oracle.com/ols/learning-path/become-an-oracle-cloud-data-managemen
 
 Scholarships 2022
 -----------------------------
-
-### AWS Artificial Intelligence (AI) and Machine Learning (ML) Scholarship program
-https://aws.amazon.com/machine-learning/scholarship/
- 
-### AWS AI & ML Scholarship Program
-https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 ### AWS Machine Learning Engineer Scholarship Program
 https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program
