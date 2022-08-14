@@ -70,8 +70,6 @@ https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
 ### Oracle Cloud free certification exam 
 1) Oracle Cloud Foundations Associate 
 https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
-2) Oracle Cloud Data Management Foundations Associate
-https://learn.oracle.com/ols/learning-path/become-an-oracle-cloud-data-management-foundations-associate/35573/107013
 
 
 Scholarships 2022
