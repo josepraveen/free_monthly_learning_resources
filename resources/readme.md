@@ -7,29 +7,22 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Microsoft certification training and exam for free - September 2022
+https://www.linkedin.com/posts/activity-6970020875634974720-GlXt/
+
 ### linkedin learning path (Offer available until September 30, 2022)
 https://opportunity.linkedin.com/skills-for-in-demand-jobs
-
-### Microsoft certification training and exam for free - August/ September 2022
-https://www.linkedin.com/posts/activity-6958124124762247168-lFMT/
 
 ### Oracle Hack Day Challenge 2022 - participate and get a free Oracle certification exam attempt
 https://www.linkedin.com/posts/activity-6965539276914655232-ssqD/
 
-### Pluralsight Free Weekend - August 12 - August 14th(expires at 11:59 p.m. MT) 
-https://www.pluralsight.com/offer/2022/q3-free-weekend
+### September Month Infosec Challenge 
 
-### August Month Infosec Challenge 
-https://www.linkedin.com/posts/activity-6962784960999043073-kFTX
 
-### ITProTv Free Weekend - August 13-14th
-https://twitter.com/ITProTV/status/1557073231571558400
+### ITProTv Free Weekend 
 
 ### Databricks certification
 https://www.linkedin.com/posts/activity-6962783164981284864-unoU
-
-### Alibaba Cloud Associate Exam & Training - Free
-https://www.linkedin.com/posts/alibabacloudglobal_voucher-alibabacloud-alibabacloudacademy-activity-6960791574335168512-7Mqo
 
 ### AWSreskill
 https://awsreskill.com/signup?source=993b423c&medium=direct
