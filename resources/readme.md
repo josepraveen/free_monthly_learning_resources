@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Databricks certification
+https://www.linkedin.com/posts/activity-6971330791901454336-4Sbv/
+
 ### Microsoft certification training and exam for free - September 2022
 https://www.linkedin.com/posts/activity-6970020875634974720-GlXt/
 
@@ -21,8 +24,6 @@ https://www.linkedin.com/posts/activity-6965539276914655232-ssqD/
 
 ### ITProTv Free Weekend 
 
-### Databricks certification
-https://www.linkedin.com/posts/activity-6962783164981284864-unoU
 
 ### AWSreskill
 https://awsreskill.com/signup?source=993b423c&medium=direct
