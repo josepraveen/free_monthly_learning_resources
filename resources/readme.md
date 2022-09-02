@@ -34,9 +34,6 @@ https://www.linkedin.com/posts/activity-6959730938884882432-1rbv
 ### AWS Certified Cloud Practitioner Challenge
 https://www.linkedin.com/posts/activity-6957698345079308288-HR3O/
 
-### Automation Anywhere Certifications are now free until the 31st August 2022
-https://www.linkedin.com/posts/activity-6955899156548788224-Y-NF/
-
 ### salesforce certification- for free voucher please read T&C
 https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
 
