@@ -46,7 +46,7 @@ https://www.linkedin.com/posts/activity-6957698345079308288-HR3O/
 ### salesforce certification- for free voucher please read T&C
 https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
 
-### Get 5 free courses every month 
+### Get 5 free javascript courses 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
 ### Free eBook every day on the latest in tech 
