@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free ACA Cloud Native Certification Training & Exam
+https://www.linkedin.com/posts/alibabacloudglobal_aca-security-alibabacloud-activity-6972765385284603904-P7Kq/
+
 ### Free Week access to all kodekloud courses & labs
 https://twitter.com/kodekloud1/status/1567731974088933379
 
