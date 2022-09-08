@@ -7,7 +7,13 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Databricks certification
+### Free Week access to all kodekloud courses & labs
+https://twitter.com/kodekloud1/status/1567731974088933379
+
+### free certification in cybersecurity by (ISC2)
+https://www.isc2.org/1mcc
+
+### Free Databricks certification
 https://www.linkedin.com/posts/activity-6971330791901454336-4Sbv/
 
 ### Microsoft certification training and exam for free - September 2022
