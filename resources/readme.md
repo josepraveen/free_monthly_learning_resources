@@ -76,3 +76,6 @@ https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program
 
 ### Cognizant Skills Accelerator
 https://www.udacity.com/scholarships/cognizant-skills-accelerator-program
+
+### OLX Boost Your Skills Scholarship Program
+https://www.udacity.com/scholarships/olx-boost-your-skills-scholarship
