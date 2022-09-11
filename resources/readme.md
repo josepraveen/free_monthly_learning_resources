@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### LinkedIn Learning 20 courses free until September 30, 2022.
+https://www.linkedin.com/business/learning/blog/top-skills-and-courses/learn-top-skills-to-future-proof-your-career
+
 ### Free ACA Cloud Native Certification Training & Exam
 https://www.linkedin.com/posts/alibabacloudglobal_aca-security-alibabacloud-activity-6972765385284603904-P7Kq/
 
