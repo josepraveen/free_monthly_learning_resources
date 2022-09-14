@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### ITProTv Free Weekend (September 17th and 18th) - free courses AZ 104, AZ 500, AZ 900, MS 900
+https://twitter.com/ITProTV/status/1569453052393914369
+
 ### LinkedIn Learning 20 courses free until September 30, 2022.
 https://www.linkedin.com/business/learning/blog/top-skills-and-courses/learn-top-skills-to-future-proof-your-career
 
@@ -34,7 +37,7 @@ https://www.linkedin.com/posts/activity-6965539276914655232-ssqD/
 ### September Month Infosec Challenge 
 
 
-### ITProTv Free Weekend 
+
 
 
 ### AWSreskill
