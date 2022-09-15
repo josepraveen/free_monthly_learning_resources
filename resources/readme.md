@@ -7,7 +7,7 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### CCNA course worth 79 USD is free 
+### Free CCNA course 
 https://courses.davidbombal.com/p/complete-cisco-ccna-200-301-course?coupon_code=FREECCNA
 
 ### ITProTv Free Weekend (September 17th and 18th) - free courses AZ 104, AZ 500, AZ 900, MS 900, MS 700
