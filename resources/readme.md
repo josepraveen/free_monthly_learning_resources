@@ -1,6 +1,6 @@
 ### Share this github repository. Don't forget to star ⭐ this repository. 
 
-[![Generic badge](https://img.shields.io/badge/%20Follow%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/jose-praveen)
+[![Generic badge](https://img.shields.io/badge/%20Follow%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/jose-praveen/detail/recent-activity/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources)
 
@@ -76,6 +76,8 @@ https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
 ### Oracle Cloud free certification exam 
 1) Oracle Cloud Foundations Associate 
 https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
+2) OCI Data Management Foundations Associate.
+https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013
 
 ### AWS Machine Learning Engineer Scholarship Program
 https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program
