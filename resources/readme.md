@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### OneTen/BIT Scholarship Program
+https://www.udacity.com/scholarships/oneten-bit-scholarship
+
 ### Free CCNA course 
 https://courses.davidbombal.com/p/complete-cisco-ccna-200-301-course?coupon_code=FREECCNA
 
