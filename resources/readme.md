@@ -7,9 +7,6 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### From July 1 to December 31, 2022, you can get free access to select Google Cloud Projects, standalone courses, Specialization, or Professional Certificates. 
-https://www.coursera.support/s/article/learner-000001625-Google-Cloud-promotion?language=en_US
-
 ### OneTen/BIT Scholarship Program
 https://www.udacity.com/scholarships/oneten-bit-scholarship
 
