@@ -1,11 +1,14 @@
 ### Share this github repository. Don't forget to star ⭐ this repository. 
 
-[![Generic badge](https://img.shields.io/badge/%20Follow%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/jose-praveen/detail/recent-activity/)
+[![Generic badge](https://img.shields.io/badge/%20For%20most%20recent%20updates-follow%20me%20on%20linkedin-blue.svg)](https://www.linkedin.com/in/jose-praveen/detail/recent-activity/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources)
 
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
+
+### 2023 Trailblazer Scholarship applications are open!
+https://www.linkedin.com/posts/salesforce-trailhead_2023-trailblazer-scholarship-applications-activity-6975483507477245952-d2Zs
 
 ### OneTen/BIT Scholarship Program
 https://www.udacity.com/scholarships/oneten-bit-scholarship
