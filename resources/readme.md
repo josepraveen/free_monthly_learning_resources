@@ -7,6 +7,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Data Engineering - 100% off udemy courses(limited time offer)
+https://www.linkedin.com/posts/durga0gadiraju_sql-sqoop-spark-activity-6978309435806953472-ZUQR
+
 ### 2023 Trailblazer Scholarship applications are open!
 https://www.linkedin.com/posts/salesforce-trailhead_2023-trailblazer-scholarship-applications-activity-6975483507477245952-d2Zs
 
