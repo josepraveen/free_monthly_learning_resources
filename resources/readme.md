@@ -13,9 +13,6 @@ https://www.linkedin.com/posts/durga0gadiraju_sql-sqoop-spark-activity-697830943
 ### 2023 Trailblazer Scholarship applications are open!
 https://www.linkedin.com/posts/salesforce-trailhead_2023-trailblazer-scholarship-applications-activity-6975483507477245952-d2Zs
 
-### OneTen/BIT Scholarship Program
-https://www.udacity.com/scholarships/oneten-bit-scholarship
-
 ### Free CCNA course 
 https://courses.davidbombal.com/p/complete-cisco-ccna-200-301-course?coupon_code=FREECCNA
 
@@ -47,10 +44,6 @@ https://opportunity.linkedin.com/skills-for-in-demand-jobs
 https://www.linkedin.com/posts/activity-6965539276914655232-ssqD/
 
 ### September Month Infosec Challenge 
-
-
-
-
 
 ### AWSreskill
 https://awsreskill.com/signup?source=993b423c&medium=direct
@@ -91,11 +84,14 @@ https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
 2) OCI Data Management Foundations Associate.
 https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013
 
-### AWS Machine Learning Engineer Scholarship Program
-https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program
-
 ### Cognizant Skills Accelerator
 https://www.udacity.com/scholarships/cognizant-skills-accelerator-program
 
 ### OLX Boost Your Skills Scholarship Program
 https://www.udacity.com/scholarships/olx-boost-your-skills-scholarship
+
+### AWS AI & ML Scholarship Program
+https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
+
+### OneTen/BIT Scholarship Program
+https://www.udacity.com/scholarships/oneten-bit-scholarship
