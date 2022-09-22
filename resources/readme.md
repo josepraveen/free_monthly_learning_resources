@@ -1,7 +1,5 @@
 ### Share this github repository. Don't forget to star ⭐ this repository. 
 
-[![Generic badge](https://img.shields.io/badge/%20For%20most%20recent%20updates-follow%20me%20on%20linkedin-blue.svg)](https://www.linkedin.com/in/jose-praveen/detail/recent-activity/)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources)
 
 
