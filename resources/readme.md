@@ -5,6 +5,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Microsoft Learn Cloud Skills Challenge - complete and get a free exam voucher
+https://www.linkedin.com/posts/activity-6980752319109894144-plp1
+
 ### 6 Microsoft certification training and exam for free - October 2022
 https://www.linkedin.com/posts/activity-6979731502758584320-YQ-z/
 
