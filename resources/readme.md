@@ -5,6 +5,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWS Specialty Challenge - complete and get 50% off exam voucher
+https://www.linkedin.com/posts/activity-6980432500443529217-KmFz/
+
 ### Microsoft Learn Cloud Skills Challenge - complete and get a free exam voucher
 https://www.linkedin.com/posts/activity-6980752319109894144-plp1
 
