@@ -5,6 +5,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Azure Citadel - Labs and Workshops
+https://azurecitadel.com/
+
 ### AWS Specialty Challenge - complete and get 50% off exam voucher
 https://www.linkedin.com/posts/activity-6980432500443529217-KmFz/
 
