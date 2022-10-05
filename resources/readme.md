@@ -5,6 +5,12 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Get 5 free kubernetes courses 
+https://learn.pluralsight.com/resource/free-course/free-monthly-courses
+
+### Free Databricks Training & Certification Voucher Alert!
+https://www.linkedin.com/posts/activity-6983318684077346816-oiws/
+
 ### Azure Citadel - Labs and Workshops
 https://azurecitadel.com/
 
@@ -34,9 +40,6 @@ https://twitter.com/ITProTV/status/1569453052393914369
 
 ### LinkedIn Learning 20 courses free until September 30, 2022.
 https://www.linkedin.com/business/learning/blog/top-skills-and-courses/learn-top-skills-to-future-proof-your-career
-
-### Free ACA Cloud Native Certification Training & Exam
-https://www.linkedin.com/posts/alibabacloudglobal_aca-security-alibabacloud-activity-6972765385284603904-P7Kq/
 
 ### Free Week access to all kodekloud courses & labs
 https://twitter.com/kodekloud1/status/1567731974088933379
@@ -69,9 +72,6 @@ https://www.linkedin.com/posts/activity-6957698345079308288-HR3O/
 
 ### salesforce certification- for free voucher please read T&C
 https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
-
-### Get 5 free javascript courses 
-https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
 ### Free eBook every day on the latest in tech 
 https://www.packtpub.com/free-learning
