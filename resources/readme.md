@@ -5,6 +5,10 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+
+### October Month Infosec Challenge 
+https://www.linkedin.com/posts/activity-6984152256661135360-V4tn
+
 ### Free Career Guide & Interview preparation courses Alert!
 https://www.linkedin.com/posts/activity-6981518937331048448-VHeE
 
@@ -62,7 +66,6 @@ https://opportunity.linkedin.com/skills-for-in-demand-jobs
 ### Oracle Hack Day Challenge 2022 - participate and get a free Oracle certification exam attempt
 https://www.linkedin.com/posts/activity-6965539276914655232-ssqD/
 
-### September Month Infosec Challenge 
 
 ### AWSreskill
 https://awsreskill.com/signup?source=993b423c&medium=direct
