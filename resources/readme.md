@@ -5,6 +5,9 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free Career Guide & Interview preparation courses Alert!
+https://www.linkedin.com/posts/activity-6981518937331048448-VHeE
+
 ### Get 5 free kubernetes courses 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
