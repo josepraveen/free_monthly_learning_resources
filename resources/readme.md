@@ -5,6 +5,8 @@
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free Week pluralsight
+https://www.pluralsight.com/offer/2022/q4-free-week
 
 ### October Month Infosec Challenge 
 https://www.linkedin.com/posts/activity-6984152256661135360-V4tn
