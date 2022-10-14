@@ -1,4 +1,9 @@
-### Share this github repository. Don't forget to star ⭐ this repository. 
+### Share this github repository in twitter, linkedin, telegram, whatsapp. 
+```
+https://github.com/josepraveen/free_monthly_learning_resources/edit/main/resources/readme.md
+```
+
+### Don't forget to star ⭐ this repository. 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources)
 
