@@ -116,3 +116,6 @@ https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 ### OneTen/BIT Scholarship Program
 https://www.udacity.com/scholarships/oneten-bit-scholarship
+
+### Next Generation Tech Booster Scholarship Program
+https://www.udacity.com/scholarships/bertelsmann-next-generation-tech-booster
