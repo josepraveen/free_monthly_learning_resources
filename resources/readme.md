@@ -1,6 +1,6 @@
 ### Share this github repository in twitter, linkedin, telegram, whatsapp. 
 ```
-https://github.com/josepraveen/free_monthly_learning_resources/edit/main/resources/readme.md
+https://github.com/josepraveen/free_monthly_learning_resources/main/resources/readme.md
 ```
 
 ### Don't forget to star ⭐ this repository. 
