@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/edit/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free ACA Cloud Computing online training and Certification exam
+https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-6986249171632603136-toWd
+
 ### ITProTv Cybersecurity Free Weekend
 https://twitter.com/ITProTV/status/1580629963786817538
 
