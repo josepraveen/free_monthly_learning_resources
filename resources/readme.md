@@ -12,8 +12,6 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 ### Free ACA Cloud Computing online training and Certification exam
 https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-6986249171632603136-toWd
-
-### ITProTv Cybersecurity Free Weekend
  
 ### Free Week pluralsight
 https://www.pluralsight.com/offer/2022/q4-free-week
