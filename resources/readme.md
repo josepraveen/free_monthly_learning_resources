@@ -10,6 +10,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### November month free courses from A Cloud Guru 
+https://acloudguru.com/blog/news/whats-free-at-acg
+
+### Get 5 free  Software Development courses 
+https://learn.pluralsight.com/resource/free-course/free-monthly-courses
+
 ### Free ACA Cloud Computing online training and Certification exam
 https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-6986249171632603136-toWd
  
@@ -21,8 +27,6 @@ https://www.pluralsight.com/offer/2022/q4-free-week
 ### Free Career Guide & Interview preparation courses Alert!
 https://www.linkedin.com/posts/activity-6981518937331048448-VHeE
 
-### Get 5 free kubernetes courses 
-https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
 ### Free Databricks Training & Certification Voucher Alert!
 https://www.linkedin.com/posts/activity-6983318684077346816-oiws/
@@ -67,8 +71,7 @@ https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
 ### Free eBook every day on the latest in tech 
 https://www.packtpub.com/free-learning
 
-### Free courses from A Cloud Guru 
-https://acloudguru.com/blog/news/whats-free-at-acg
+
 
 ### AWS free learning
 https://explore.skillbuilder.aws/ (use the filter option)
