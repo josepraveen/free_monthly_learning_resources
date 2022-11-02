@@ -18,15 +18,12 @@ https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
 ### Free ACA Cloud Computing online training and Certification exam
 https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-6986249171632603136-toWd
- 
-### Free Week pluralsight
-https://www.pluralsight.com/offer/2022/q4-free-week
+
 
 ### November Month Infosec Challenge 
  
 ### Free Career Guide & Interview preparation courses Alert!
 https://www.linkedin.com/posts/activity-6981518937331048448-VHeE
-
 
 ### Free Databricks Training & Certification Voucher Alert!
 https://www.linkedin.com/posts/activity-6983318684077346816-oiws/
@@ -70,8 +67,6 @@ https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
 
 ### Free eBook every day on the latest in tech 
 https://www.packtpub.com/free-learning
-
-
 
 ### AWS free learning
 https://explore.skillbuilder.aws/ (use the filter option)
