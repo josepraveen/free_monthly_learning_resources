@@ -10,7 +10,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### All Courses on 365DataScience for FREE in 21 days 
+### All Courses on 365DataScience - FREE for 21 days 
 https://twitter.com/365datascience/status/1587376160832462849
 
 ### Microsoft Learn Cloud Skills Challenge - complete and get a free exam voucher
