@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Cisco & Comptia courses free weekend
+https://twitter.com/ITProTV/status/1590048260991094786
+
 ### Free Week - Unrestricted access to 380+ courses in Python, SQL, Power BI, R and more
 https://twitter.com/DataCamp/status/1589641323727835138
 
