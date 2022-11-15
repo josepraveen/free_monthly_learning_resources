@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWS Certification Free Exam Retake promotion (please read T&C)
+https://home.pearsonvue.com/Clients/Amazon-Web-Services/Retake.aspx 
+
 ### Nutanix Certification free for limited time(please read T&C)
 https://twitter.com/NutanixEDU/status/1592198451227373568
 
