@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Nutanix Certification free for limited time(please read T&C)
+https://twitter.com/NutanixEDU/status/1592198451227373568
+
 ### Cisco & Comptia courses free weekend
 https://twitter.com/ITProTV/status/1590048260991094786
 
