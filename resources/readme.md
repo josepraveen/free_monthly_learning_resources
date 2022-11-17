@@ -10,6 +10,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free Weekend - Pluralsight
+https://www.pluralsight.com/offer/2022/q4-free-weekend
+
+### Free ACA Cloud Computing online training and Certification exam
+https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudacademy-activity-6998875116549935104-9Ubk 
+
 ### AWS Certification Free Exam Retake promotion (please read T&C)
 https://home.pearsonvue.com/Clients/Amazon-Web-Services/Retake.aspx 
 
@@ -33,10 +39,6 @@ https://acloudguru.com/blog/news/whats-free-at-acg
 
 ### Get 5 free  Software Development courses 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
-
-### Free ACA Cloud Computing online training and Certification exam
-https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-6986249171632603136-toWd
-
 
 ### November Month Infosec Challenge 
  
