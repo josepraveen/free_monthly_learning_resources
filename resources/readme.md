@@ -46,18 +46,7 @@ https://courses.davidbombal.com/p/complete-cisco-ccna-200-301-course?coupon_code
    
 ### free certification in cybersecurity by (ISC2)
 https://www.isc2.org/1mcc
-
-### Free Databricks certification
-https://www.linkedin.com/posts/activity-6971330791901454336-4Sbv/
-
-### AWS Certified: Developer Associate Challenge, exclusively for AWS Partners in EMEA
-https://www.linkedin.com/posts/activity-6959730938884882432-1rbv 
-
-### AWS Certified Cloud Practitioner Challenge
-https://www.linkedin.com/posts/activity-6957698345079308288-HR3O/
-
-### salesforce certification- for free voucher please read T&C
-https://www.linkedin.com/posts/activity-6955899969543299072-PYtL/
+ 
 
 ### Free eBook every day on the latest in tech 
 https://www.packtpub.com/free-learning
