@@ -14,7 +14,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 https://www.pluralsight.com/offer/2022/q4-free-weekend
 
 ### Free ACA Cloud Computing online training and Certification exam
-https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudacademy-activity-6998875116549935104-9Ubk 
+https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-7004678106305241088-G8fR
 
 ### AWS Certification Free Exam Retake promotion (please read T&C)
 https://home.pearsonvue.com/Clients/Amazon-Web-Services/Retake.aspx 
