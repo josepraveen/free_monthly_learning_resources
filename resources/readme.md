@@ -29,9 +29,6 @@ https://www.linkedin.com/posts/activity-6980752319109894144-plp1
 ### Free Career Guide & Interview preparation courses Alert!
 https://www.linkedin.com/posts/activity-6981518937331048448-VHeE
 
-### Free Databricks Training & Certification Voucher Alert!
-https://www.linkedin.com/posts/activity-6983318684077346816-oiws/
-
 ### Azure Citadel - Labs and Workshops
 https://azurecitadel.com/
 
