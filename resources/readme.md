@@ -10,9 +10,6 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Free Weekend - Pluralsight
-https://www.pluralsight.com/offer/2022/q4-free-weekend
-
 ### Free ACA Cloud Computing online training and Certification exam
 https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-7004678106305241088-G8fR
 
