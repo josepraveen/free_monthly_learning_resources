@@ -10,6 +10,8 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### ITProTV free weekend
+https://twitter.com/ITProTV/status/1600481022772142081
 
 ### December month free courses from A Cloud Guru 
 https://acloudguru.com/blog/news/whats-free-at-acg
