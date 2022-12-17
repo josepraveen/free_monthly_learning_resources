@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free AviatrixACE Associate training and exam 
+https://twitter.com/aviatrixsys/status/1603812569512394792
+
 ### ITProTV free weekend
 https://twitter.com/ITProTV/status/1600481022772142081
 
