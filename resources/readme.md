@@ -30,9 +30,6 @@ https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
 ### Free ACA Cloud Computing online training and Certification exam
 https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-7004678106305241088-G8fR
-
-### AWS Certification Free Exam Retake promotion (please read T&C)
-https://home.pearsonvue.com/Clients/Amazon-Web-Services/Retake.aspx 
   
 ### Microsoft Learn Cloud Skills Challenge - complete and get a free exam voucher
 https://www.linkedin.com/posts/activity-6980752319109894144-plp1
@@ -55,7 +52,6 @@ https://courses.davidbombal.com/p/complete-cisco-ccna-200-301-course?coupon_code
 ### free certification in cybersecurity by (ISC2)
 https://www.isc2.org/1mcc
  
-
 ### Free eBook every day on the latest in tech 
 https://www.packtpub.com/free-learning
 
