@@ -10,6 +10,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Advent of Cyber 2022
+https://tryhackme.com/christmas
+
+### 6 entry-level infosec courses are now completely FREE! 
+https://twitter.com/SecBlueTeam/status/1598692983443972096
+
 ### Free AviatrixACE Associate training and exam 
 https://twitter.com/aviatrixsys/status/1603812569512394792
 
