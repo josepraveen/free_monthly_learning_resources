@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free Burp Suite Certified Practitioner exam credit
+https://twitter.com/WebSecAcademy/status/1605578854998761474
+
 ### Advent of Cyber 2022
 https://tryhackme.com/christmas
 
