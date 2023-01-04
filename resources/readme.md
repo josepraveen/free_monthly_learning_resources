@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Microsoft Virtual Training Program & free exam voucher - January 2023
+https://www.linkedin.com/posts/activity-7013883444363485184-gIOE
+
 ### Alibaba Cloud free associate-level certification exam
 https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudcertification-alibabacloudacademy-activity-7015990062865666048-HSvC
 
