@@ -10,6 +10,15 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Alibaba Cloud free associate-level certification exam
+https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudcertification-alibabacloudacademy-activity-7015990062865666048-HSvC
+
+### Free Databricks certification exam voucher.
+https://www.linkedin.com/posts/activity-7016276318765940736-TsBp
+
+### Free beta exam Splunk O11y Cloud Certified Metrics User
+https://www.linkedin.com/posts/activity-7015919468656676864-oM-r
+
 ### Free Burp Suite Certified Practitioner exam credit
 https://twitter.com/WebSecAcademy/status/1605578854998761474
 
