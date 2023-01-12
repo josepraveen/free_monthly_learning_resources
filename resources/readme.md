@@ -10,6 +10,13 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+
+### Get 5 free  Azure courses 
+https://learn.pluralsight.com/resource/free-course/free-monthly-courses
+
+### January month free courses from A Cloud Guru 
+https://acloudguru.com/blog/news/whats-free-at-acg
+
 ### ITProTV FREE weekend! On January 14-15th
 https://twitter.com/ITProTV/status/1613243619539836937
 
@@ -25,45 +32,15 @@ https://www.linkedin.com/posts/activity-7016276318765940736-TsBp
 ### Free beta exam Splunk O11y Cloud Certified Metrics User
 https://www.linkedin.com/posts/activity-7015919468656676864-oM-r
 
-### Free Burp Suite Certified Practitioner exam credit
-https://twitter.com/WebSecAcademy/status/1605578854998761474
-
 ### Advent of Cyber 2022
 https://tryhackme.com/christmas
-
-### 6 entry-level infosec courses are now completely FREE! 
-https://twitter.com/SecBlueTeam/status/1598692983443972096
-
-### Free AviatrixACE Associate training and exam 
-https://twitter.com/aviatrixsys/status/1603812569512394792
-
-### ITProTV free weekend
-https://twitter.com/ITProTV/status/1600481022772142081
-
-### December month free courses from A Cloud Guru 
-https://acloudguru.com/blog/news/whats-free-at-acg
-
-### Get 5 free  AWS courses 
-https://learn.pluralsight.com/resource/free-course/free-monthly-courses
-
-### Free ACA Cloud Computing online training and Certification exam
-https://www.linkedin.com/posts/alibabacloudglobal_welcome-you-are-invited-to-join-a-webinar-activity-7004678106305241088-G8fR
-  
-### Microsoft Learn Cloud Skills Challenge - complete and get a free exam voucher
-https://www.linkedin.com/posts/activity-6980752319109894144-plp1
  
 ### Free Career Guide & Interview preparation courses Alert!
 https://www.linkedin.com/posts/activity-6981518937331048448-VHeE
 
 ### Azure Citadel - Labs and Workshops
 https://azurecitadel.com/
-
-### AWS Specialty Challenge - complete and get 50% off exam voucher
-https://www.linkedin.com/posts/activity-6980432500443529217-KmFz/
   
-### Free Cloud Certification Courses
-https://twitter.com/pluralsight/status/1572618134489812993  
-
 ### Free CCNA course 
 https://courses.davidbombal.com/p/complete-cisco-ccna-200-301-course?coupon_code=FREECCNA
    
