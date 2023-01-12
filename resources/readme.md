@@ -5,7 +5,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 ### Don't forget to star ⭐ this repository. 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources)
+![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources) ![GitHub Repo stars](https://img.shields.io/github/stars/josepraveen/free_monthly_learning_resources?style=social) ![GitHub forks](https://img.shields.io/github/forks/josepraveen/free_monthly_learning_resources?style=social)
 
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
