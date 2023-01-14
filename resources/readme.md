@@ -26,7 +26,7 @@ https://www.linkedin.com/posts/activity-7013883444363485184-gIOE
 ### Alibaba Cloud :cloud: free associate-level certification exam
 https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudcertification-alibabacloudacademy-activity-7015990062865666048-HSvC
 
-### Free Databricks certification exam voucher.
+### Databricks certification exam voucher.
 https://www.linkedin.com/posts/activity-7016276318765940736-TsBp
 
 ### Free beta exam Splunk O11y Cloud Certified Metrics User
