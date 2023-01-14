@@ -43,9 +43,6 @@ https://azurecitadel.com/
   
 ### Free CCNA course 
 https://courses.davidbombal.com/p/complete-cisco-ccna-200-301-course?coupon_code=FREECCNA
-   
-### free certification in cybersecurity by (ISC2)
-https://www.isc2.org/1mcc
  
 ### Free eBook every day on the latest in tech 
 https://www.packtpub.com/free-learning
