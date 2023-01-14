@@ -14,7 +14,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 ### Get 5 free  Azure :cloud: courses 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
-### January month free courses from A Cloud Guru :cloud:
+### January 2023 - free courses from A Cloud Guru :cloud:
 https://acloudguru.com/blog/news/whats-free-at-acg
 
 ### ITProTV FREE weekend! On January 14-15th
