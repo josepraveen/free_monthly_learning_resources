@@ -34,9 +34,6 @@ https://www.linkedin.com/posts/activity-7015919468656676864-oM-r
 
 ### Advent of Cyber 2022
 https://tryhackme.com/christmas
- 
-### Free Career Guide & Interview preparation courses Alert!
-https://www.linkedin.com/posts/activity-6981518937331048448-VHeE
 
 ### Azure :cloud: Citadel - Labs and Workshops
 https://azurecitadel.com/
