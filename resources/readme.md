@@ -13,6 +13,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 ### Total 4 cybersecurity scholarship
 https://www.linkedin.com/posts/activity-7021519343624613888-ka3m
 
+### OneTen/BIT Scholarship Program
+https://www.udacity.com/scholarships/oneten-bit-scholarship
+
 ### Get 5 free  Azure :cloud: courses 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
