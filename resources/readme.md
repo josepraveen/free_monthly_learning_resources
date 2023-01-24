@@ -11,8 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
 ### Swift Tech Scholarship
-1) Devops https://www.udacity.com/scholarships/swift-devops-intermediate
-2) Product management https://www.udacity.com/scholarships/swift-product-management
+1) Devops Foundations https://www.udacity.com/scholarships/swift-devops-foundation
+2) Devops Intermediate https://www.udacity.com/scholarships/swift-devops-intermediate
+3) Product management https://www.udacity.com/scholarships/swift-product-management
 
 ### Total 4 cybersecurity scholarship
 https://www.linkedin.com/posts/activity-7021519343624613888-ka3m
