@@ -13,18 +13,18 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 ### AWS Certified : Professional Challenge 🔥
 https://www.linkedin.com/posts/activity-7026434539019272192-HhqP
 
-### AWS AI & ML Scholarship Program
+### AWS AI & ML Scholarship Program 🔥
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
-### Swift Tech Scholarship
+### Swift Tech Scholarship  🔥
 1) Devops Foundations https://www.udacity.com/scholarships/swift-devops-foundation
 2) Devops Intermediate https://www.udacity.com/scholarships/swift-devops-intermediate
 3) Product management https://www.udacity.com/scholarships/swift-product-management
 
-### Total 4 cybersecurity scholarship
+### Total 4 cybersecurity scholarship  🔥
 https://www.linkedin.com/posts/activity-7021519343624613888-ka3m
 
-### OneTen/BIT Scholarship Program
+### OneTen/BIT Scholarship Program  🔥
 https://www.udacity.com/scholarships/oneten-bit-scholarship
 
 ### Get 5 free  Azure :cloud: courses 
