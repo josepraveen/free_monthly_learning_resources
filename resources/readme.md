@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWS AI & ML Scholarship Program
+https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
+
 ### Swift Tech Scholarship
 1) Devops Foundations https://www.udacity.com/scholarships/swift-devops-foundation
 2) Devops Intermediate https://www.udacity.com/scholarships/swift-devops-intermediate
