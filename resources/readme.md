@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Alibaba Cloud Free Traning & Exam  🔥
+https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudacademy-activity-7026740391328571392-Z3b4/
+
 ### AWS Certified : Professional Challenge 🔥
 https://www.linkedin.com/posts/activity-7026434539019272192-HhqP
 
