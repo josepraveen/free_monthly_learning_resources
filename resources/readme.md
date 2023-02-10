@@ -10,6 +10,21 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### HOLA Scholarship
+https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
+
+### BAM Scholarship 
+https://www.microsoft.com/en-us/diversity/programs/bam-scholarship.aspx
+
+### Microsoft Disability Scholarship
+https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship.aspx
+
+### ITProTV free weekend
+https://www.linkedin.com/posts/activity-7029782359453433856-1i3h
+
+### 50% discount voucher for AWS Cloud Practitioner exam
+https://www.linkedin.com/posts/activity-7029697486826987521-8HXM
+
 ### Alibaba Cloud Free Training & Exam  🔥
 https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudacademy-activity-7026740391328571392-Z3b4/
 
