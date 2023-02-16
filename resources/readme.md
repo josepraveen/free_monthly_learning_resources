@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Alibaba Cloud Associate (ACA) Developer Free Certification Training
+https://www.linkedin.com/posts/alibabacloudglobal_godigitalwithalibabacloud-alibabacloudcertification-activity-7031509915806416896-BczN
+
 ### HOLA Scholarship
 https://www.microsoft.com/en-us/diversity/programs/hola-scholarship.aspx
 
