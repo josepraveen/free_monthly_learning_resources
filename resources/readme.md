@@ -11,7 +11,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
 
-### Get 5 free Artificial Intelligence courses
+### March 2023 - Get 5 free Artificial Intelligence courses
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
 ### March 2023 - free courses from A Cloud Guru :cloud:
