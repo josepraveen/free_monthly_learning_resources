@@ -10,6 +10,10 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+
+### March 2023 - free courses from A Cloud Guru :cloud:
+https://acloudguru.com/blog/news/whats-free-at-acg
+
 ### Alibaba Cloud Associate (ACA) Developer Free Certification Training
 https://www.linkedin.com/posts/alibabacloudglobal_godigitalwithalibabacloud-alibabacloudcertification-activity-7031509915806416896-BczN
 
@@ -57,8 +61,6 @@ https://www.udacity.com/scholarships/oneten-bit-scholarship
 ### Get 5 free ITOps courses 
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
-### February 2023 - free courses from A Cloud Guru :cloud:
-https://acloudguru.com/blog/news/whats-free-at-acg
 
 ### Free beta exam Splunk O11y Cloud Certified Metrics User
 https://www.linkedin.com/posts/activity-7015919468656676864-oM-r
