@@ -30,22 +30,9 @@ https://www.microsoft.com/en-us/diversity/programs/bam-scholarship.aspx
 https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship.aspx
 
 ### ITProTV free weekend
-https://www.linkedin.com/posts/activity-7029782359453433856-1i3h
-
-### 50% discount voucher for AWS Cloud Practitioner exam
-https://www.linkedin.com/posts/activity-7029697486826987521-8HXM
-
-### free SAP Certification
-https://www.linkedin.com/posts/activity-7029352030938832896-1I3b
 
 ### 500 hours of free, premium cybersecurity training content
 https://www.linkedin.com/posts/activity-7028983293983293440-00tS
-
-### Alibaba Cloud Free Training & Exam  🔥
-https://www.linkedin.com/posts/alibabacloudglobal_alibabacloudacademy-activity-7026740391328571392-Z3b4/
-
-### AWS Certified : Professional Challenge 🔥
-https://www.linkedin.com/posts/activity-7026434539019272192-HhqP
 
 ### AWS AI & ML Scholarship Program 🔥
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
@@ -61,12 +48,6 @@ https://www.linkedin.com/posts/activity-7021519343624613888-ka3m
 ### OneTen/BIT Scholarship Program  🔥
 https://www.udacity.com/scholarships/oneten-bit-scholarship
 
-### Get 5 free ITOps courses 
-https://learn.pluralsight.com/resource/free-course/free-monthly-courses
-
-
-### Free beta exam Splunk O11y Cloud Certified Metrics User
-https://www.linkedin.com/posts/activity-7015919468656676864-oM-r
 
 ### Advent of Cyber 2022
 https://tryhackme.com/christmas
