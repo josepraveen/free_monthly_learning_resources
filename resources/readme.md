@@ -10,7 +10,8 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### ITProTV free weekend on March 18–19, 2023 https://www.linkedin.com/posts/activity-7040654896999653376-iamC
+### ITProTV free weekend on March 18–19, 2023
+https://www.linkedin.com/posts/activity-7040654896999653376-iamC
 
 ### March 2023 - Get 5 free Artificial Intelligence courses
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
