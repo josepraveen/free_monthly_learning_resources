@@ -10,6 +10,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### ITProTV free weekend on March 18–19, 2023 https://www.linkedin.com/posts/activity-7040654896999653376-iamC
 
 ### March 2023 - Get 5 free Artificial Intelligence courses
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
@@ -29,7 +30,6 @@ https://www.microsoft.com/en-us/diversity/programs/bam-scholarship.aspx
 ### Microsoft Disability Scholarship
 https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship.aspx
 
-### ITProTV free weekend
 
 ### 500 hours of free, premium cybersecurity training content
 https://www.linkedin.com/posts/activity-7028983293983293440-00tS
