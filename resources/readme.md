@@ -10,9 +10,10 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Azure free weekend
+### April 2023 -  Azure free weekend
+https://www.linkedin.com/posts/activity-7051560310377218048-Yyag
 
-### Devops free week
+### April 2023 -  Devops free week
 https://www.linkedin.com/posts/activity-7050489093381619712-YvFT
 
 ### April 2023 - Get 5 free Cloud courses
