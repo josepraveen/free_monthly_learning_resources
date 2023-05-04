@@ -26,9 +26,6 @@ https://www.linkedin.com/posts/activity-7050489093381619712-YvFT
 ### LiFT Scholarship 2023
 https://www.linkedin.com/posts/activity-7048226625389297664-YK8O
 
-### Alibaba Cloud Associate (ACA) Developer Free Certification Training
-https://www.linkedin.com/posts/alibabacloudglobal_godigitalwithalibabacloud-alibabacloudcertification-activity-7031509915806416896-BczN
-
 ### 500 hours of free, premium cybersecurity training content
 https://www.linkedin.com/posts/activity-7028983293983293440-00tS
 
