@@ -10,23 +10,18 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### May 2023 - Get 5 free Data courses
+https://learn.pluralsight.com/resource/free-course/free-monthly-courses
+
+
+### May 2023 - free courses from A Cloud Guru :cloud:
+https://acloudguru.com/blog/news/whats-free-at-acg
+
 ### April 2023 -  Azure free weekend
 https://www.linkedin.com/posts/activity-7051560310377218048-Yyag
 
 ### April 2023 -  Devops free week
 https://www.linkedin.com/posts/activity-7050489093381619712-YvFT
-
-### April 2023 - Get 5 free Cloud courses
-https://learn.pluralsight.com/resource/free-course/free-monthly-courses
-
-### April 2023 - free courses from A Cloud Guru :cloud:
-https://acloudguru.com/blog/news/whats-free-at-acg
-
-### Learning Java 11
-https://www.linkedin.com/posts/activity-7049987171600003074-jrPU
-
-### SQL for data analysis
-https://www.linkedin.com/posts/activity-7049703824327938048-K1Pl
 
 ### LiFT Scholarship 2023
 https://www.linkedin.com/posts/activity-7048226625389297664-YK8O
