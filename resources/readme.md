@@ -50,6 +50,12 @@ https://www.packtpub.com/free-learning
 ### AWS :cloud:free learning
 https://explore.skillbuilder.aws/ (use the filter option)
 
+### AWS Workshops
+https://workshops.aws/
+
+### Build On AWS - hands-on learning
+https://www.youtube.com/@BuildOnAWS/videos
+
 ### AWS :cloud: - DevSecOps 
 https://awsworkshop.io/categories/devsecops/
 
