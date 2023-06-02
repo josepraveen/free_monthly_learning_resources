@@ -10,15 +10,26 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### June 2023 - Get 5 free Azure courses :cloud:
+https://learn.pluralsight.com/resource/free-course/free-monthly-courses
+
+### 1 month of free learning by enrolling in a Career Guide and Interview Preparation Course on Coursera
+https://www.linkedin.com/posts/activity-7070091869979869184-Cp5x
+
+### Get Oracle Certified on Oracle Cloud Infrastructure for free through August 31 :cloud:
+https://www.linkedin.com/posts/activity-7070056813181767680-PHKK
+
+### Qiskit Global Summer School 2023 is a two-week intensive summer program
+https://www.linkedin.com/posts/activity-7070054967427952640-gT55
+
+### AWSome Day Online Conference is a free one-day cloud training
+https://www.linkedin.com/posts/activity-7069195840795394048-RQsE
+
 ### Large language model(LLM) Bootcamp - Spring 2023
 https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
 
 ### Access Bank and Udacity are awarding 1,000 Nanodegree program scholarships in 2023
 https://www.udacity.com/scholarships/accessbank
-
-### May 2023 - Get 5 free Data courses
-https://learn.pluralsight.com/resource/free-course/free-monthly-courses
-
 
 ### May 2023 - free courses from A Cloud Guru :cloud:
 https://acloudguru.com/blog/news/whats-free-at-acg
