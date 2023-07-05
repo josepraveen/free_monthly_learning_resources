@@ -13,8 +13,8 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 ### July 2023 - Get 5 free Security courses :cloud:
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
-### 1 month of free learning by enrolling in a Career Guide and Interview Preparation Course on Coursera
-https://www.linkedin.com/posts/activity-7070091869979869184-Cp5x
+### 133 cyber security training courses you can take now — for free
+https://resources.infosecinstitute.com/topic/13-cyber-security-training-courses-you-can-take-now-for-free/
 
 ### Get Oracle Certified on Oracle Cloud Infrastructure for free through August 31 :cloud:
 https://www.linkedin.com/posts/activity-7070056813181767680-PHKK
@@ -30,15 +30,6 @@ https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
 
 ### Access Bank and Udacity are awarding 1,000 Nanodegree program scholarships in 2023
 https://www.udacity.com/scholarships/accessbank
-
-### May 2023 - free courses from A Cloud Guru :cloud:
-https://acloudguru.com/blog/news/whats-free-at-acg
-
-### April 2023 -  Azure free weekend
-https://www.linkedin.com/posts/activity-7051560310377218048-Yyag
-
-### April 2023 -  Devops free week
-https://www.linkedin.com/posts/activity-7050489093381619712-YvFT
 
 ### LiFT Scholarship 2023
 https://www.linkedin.com/posts/activity-7048226625389297664-YK8O
@@ -63,6 +54,9 @@ https://explore.skillbuilder.aws/ (use the filter option)
 
 ### AWS Workshops
 https://workshops.aws/
+
+### AWS hands-on labs
+https://wellarchitectedlabs.com/
 
 ### Build On AWS - hands-on learning
 https://www.youtube.com/@BuildOnAWS/videos
