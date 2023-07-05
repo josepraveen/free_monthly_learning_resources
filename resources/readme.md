@@ -10,7 +10,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### June 2023 - Get 5 free Azure courses :cloud:
+### July 2023 - Get 5 free Security courses :cloud:
 https://learn.pluralsight.com/resource/free-course/free-monthly-courses
 
 ### 1 month of free learning by enrolling in a Career Guide and Interview Preparation Course on Coursera
