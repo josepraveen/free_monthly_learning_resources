@@ -11,7 +11,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
 ### July 2023 - Get 5 free Security courses :cloud:
-https://learn.pluralsight.com/resource/free-course/free-monthly-courses
+https://www.pluralsight.com/offer/free-tech-skills
 
 ### 133 cyber security training courses you can take now — for free
 https://resources.infosecinstitute.com/topic/13-cyber-security-training-courses-you-can-take-now-for-free/
