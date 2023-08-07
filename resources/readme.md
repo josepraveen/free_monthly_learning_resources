@@ -10,11 +10,11 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free weekend - cisco, comptia, ms900 course
+https://www.linkedin.com/posts/activity-7093988739286249473-GF35/
+
 ### free week - access the entire Packt library
 https://www.linkedin.com/posts/activity-7089097524669517824-agQM 
-
-### free weekend - all comptia courses 
-https://www.linkedin.com/posts/activity-7082644225506373632-zZyD
 
 ### July 2023 - Get 5 free Security courses :cloud:
 https://www.pluralsight.com/offer/free-tech-skills
