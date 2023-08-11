@@ -13,7 +13,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 ### AI Cyber Challenge
 https://www.linkedin.com/posts/activity-7095622193216192512-2aKt/
 
-### free weekend - cisco, comptia, ms900 course
+### August 2023 free weekend - cisco, comptia, ms900 course
 https://www.linkedin.com/posts/activity-7093988739286249473-GF35/
 
 ### free week - access the entire Packt library
