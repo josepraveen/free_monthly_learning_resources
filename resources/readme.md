@@ -25,7 +25,7 @@ https://www.pluralsight.com/offer/free-tech-skills
 ### 133 cyber security training courses you can take now — for free
 https://resources.infosecinstitute.com/topic/13-cyber-security-training-courses-you-can-take-now-for-free/
 
-### Get Oracle Certified on Oracle Cloud Infrastructure for free through August 31 :cloud:
+### Get Oracle Certified on Oracle Cloud Infrastructure for free through September 30, 2023 :cloud:
 https://www.linkedin.com/posts/activity-7070056813181767680-PHKK
 
 ### Qiskit Global Summer School 2023 is a two-week intensive summer program
