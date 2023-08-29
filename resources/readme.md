@@ -10,6 +10,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Quantum Scholarship
+https://www.linkedin.com/posts/activity-7100736100993814528-PLUO
+
+### Datacamp free week
+https://www.linkedin.com/posts/activity-7101935809938804737-lYWW
+
 ### AI Cyber Challenge
 https://www.linkedin.com/posts/activity-7095622193216192512-2aKt/
 
