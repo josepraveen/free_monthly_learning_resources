@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### microsoft azure free weekend
+https://www.linkedin.com/posts/activity-7103405492382679040-XDAu/
+
 ### Quantum Scholarship
 https://www.linkedin.com/posts/activity-7100736100993814528-PLUO
 
