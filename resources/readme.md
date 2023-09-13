@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 75% discount exam voucher for AWS Certification exams
+https://www.linkedin.com/posts/activity-7107369868294832128-12Iz
+
 ### free 100 google cloud skill boost credits.
 https://www.linkedin.com/posts/activity-7106918202290409472-6hdz
 
