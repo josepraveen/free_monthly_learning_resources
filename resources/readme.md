@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free one month unlimited access to google cloud skill boost platform.
+https://www.linkedin.com/posts/activity-7107747998092197888-1nqk
+
 ### 75% discount exam voucher for AWS Certification exams
 https://www.linkedin.com/posts/activity-7107369868294832128-12Iz
 
