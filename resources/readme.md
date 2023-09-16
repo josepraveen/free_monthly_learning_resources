@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWS Global Jam Competition: Next-Gen Infrastructure
+https://www.linkedin.com/posts/activity-7108106862784385026-ksNm
+
 ### free one month unlimited access to google cloud skill boost platform.
 https://www.linkedin.com/posts/activity-7107747998092197888-1nqk
 
