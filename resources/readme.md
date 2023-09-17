@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### devops free week
+https://www.linkedin.com/posts/activity-7108823318006296577-D9sm
+
 ### AWS Global Jam Competition: Next-Gen Infrastructure
 https://www.linkedin.com/posts/activity-7108106862784385026-ksNm
 
