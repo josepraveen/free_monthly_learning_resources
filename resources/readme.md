@@ -10,6 +10,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Get 50% off exam voucher code for AWS exam
+https://www.linkedin.com/posts/activity-7114507560258322432-vVFH
+
 ### devops free week
 https://www.linkedin.com/posts/activity-7108823318006296577-D9sm
 
