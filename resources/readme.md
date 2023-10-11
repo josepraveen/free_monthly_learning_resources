@@ -1,9 +1,10 @@
-### Share this github repository in twitter, linkedin, telegram, whatsapp. 
+
+### If you like the project, give it a ⭐ or share it on various platforms. My goal is to create and to gather resources for people to help them on their career.
+
 ```
 https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resources/readme.md
 ```
-
-### Don't forget to star ⭐ this repository. 
+### Thank you for reading.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/free_monthly_learning_resources) ![GitHub Repo stars](https://img.shields.io/github/stars/josepraveen/free_monthly_learning_resources?style=social) ![GitHub forks](https://img.shields.io/github/forks/josepraveen/free_monthly_learning_resources?style=social)
 
