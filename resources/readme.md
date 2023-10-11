@@ -11,6 +11,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Cybersecurity Free Weekend 
+https://www.linkedin.com/posts/activity-7117523866331058176-ycES
+
+### Access 3 AWS devops builder labs for free
+https://www.linkedin.com/posts/activity-7116024031279030272-w0x3
+
 ### Get 50% off exam voucher code for AWS exam
 https://www.linkedin.com/posts/activity-7114507560258322432-vVFH
 
