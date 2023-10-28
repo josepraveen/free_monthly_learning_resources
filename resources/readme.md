@@ -23,6 +23,21 @@ https://www.linkedin.com/posts/activity-7116024031279030272-w0x3
 ### Get 50% off exam voucher code for AWS exam
 https://www.linkedin.com/posts/activity-7114507560258322432-vVFH
 
+### Azure :cloud: Citadel - Labs and Workshops
+https://azurecitadel.com/
+ 
+### Free eBook every day on the latest in tech 
+https://www.packtpub.com/free-learning
+
+### AWS :cloud:free learning
+https://explore.skillbuilder.aws/ (use the filter option)
+
+### AWS Workshops
+https://workshops.aws/
+
+### AWS hands-on labs
+https://wellarchitectedlabs.com/
+
 ### devops free week
 https://www.linkedin.com/posts/activity-7108823318006296577-D9sm
 
@@ -85,21 +100,6 @@ https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 ### Advent of Cyber 2022
 https://tryhackme.com/christmas
-
-### Azure :cloud: Citadel - Labs and Workshops
-https://azurecitadel.com/
- 
-### Free eBook every day on the latest in tech 
-https://www.packtpub.com/free-learning
-
-### AWS :cloud:free learning
-https://explore.skillbuilder.aws/ (use the filter option)
-
-### AWS Workshops
-https://workshops.aws/
-
-### AWS hands-on labs
-https://wellarchitectedlabs.com/
 
 ### Build On AWS - hands-on learning
 https://www.youtube.com/@BuildOnAWS/videos
