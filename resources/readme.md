@@ -71,9 +71,6 @@ https://www.linkedin.com/posts/activity-7093988739286249473-GF35/
 ### free week - access the entire Packt library
 https://www.linkedin.com/posts/activity-7089097524669517824-agQM 
 
-### August 2023 - Get 5 free UX courses :cloud:
-https://www.pluralsight.com/offer/free-tech-skills
-
 ### 133 cyber security training courses you can take now — for free
 https://resources.infosecinstitute.com/topic/13-cyber-security-training-courses-you-can-take-now-for-free/
 
