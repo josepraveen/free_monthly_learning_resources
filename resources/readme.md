@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 500 hours of free, premium cybersecurity training content
+https://www.linkedin.com/posts/activity-7028983293983293440-00tS
+
 ### Cybersecurity Free Weekend 
 https://www.linkedin.com/posts/activity-7117523866331058176-ycES
 
@@ -76,9 +79,6 @@ https://www.udacity.com/scholarships/accessbank
 
 ### LiFT Scholarship 2023
 https://www.linkedin.com/posts/activity-7048226625389297664-YK8O
-
-### 500 hours of free, premium cybersecurity training content
-https://www.linkedin.com/posts/activity-7028983293983293440-00tS
 
 ### AWS AI & ML Scholarship Program 🔥
 https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
