@@ -11,7 +11,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Access 450+ interactive data and AI courses for free till November 12 2023.
+### Access 450+ interactive data and AI courses for free till November 12th 2023.
 https://www.linkedin.com/posts/activity-7127568525073780737-NXCG
 
 ### Comptia & Cisco courses free weekend
