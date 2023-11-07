@@ -11,6 +11,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Access 450+ interactive data and AI courses for free till November 12 2023.
+https://www.linkedin.com/posts/activity-7127568525073780737-NXCG
+
+### Comptia & Cisco courses free weekend
+https://www.linkedin.com/posts/activity-7126909172570357760-N4XY
+
 ### 500 hours of free, premium cybersecurity training content
 https://www.linkedin.com/posts/activity-7028983293983293440-00tS
 
