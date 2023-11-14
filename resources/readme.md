@@ -11,6 +11,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Next Generation Tech Booster 
+https://www.udacity.com/scholarships/bertelsmann-next-generation-tech-booster
+
+### Oracle Cloud Infrastructure 2023 AI Foundations Associate Exam - free
+https://www.linkedin.com/posts/activity-7130046088119554048-226R
+
 ### Access 450+ interactive data and AI courses for free till November 12th 2023.
 https://www.linkedin.com/posts/activity-7127568525073780737-NXCG
 
@@ -91,15 +97,6 @@ https://www.linkedin.com/posts/activity-7069195840795394048-RQsE
 
 ### Large language model(LLM) Bootcamp - Spring 2023
 https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
-
-### Access Bank and Udacity are awarding 1,000 Nanodegree program scholarships in 2023
-https://www.udacity.com/scholarships/accessbank
-
-### LiFT Scholarship 2023
-https://www.linkedin.com/posts/activity-7048226625389297664-YK8O
-
-### AWS AI & ML Scholarship Program 🔥
-https://www.udacity.com/scholarships/aws-ai-ml-scholarship-program
 
 ### Advent of Cyber 2022
 https://tryhackme.com/christmas
