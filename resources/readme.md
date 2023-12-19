@@ -11,7 +11,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Advent of Cyber 2023 - ML, SOC, Malware Analysis, Pentest
+### Advent of Cyber 2023 - Machine learning, Security operations and engineering, Malware analysis, Penetration testing, Digital forensics and incident response
 https://tryhackme.com/room/adventofcyber2023
 
 ### Next Generation Tech Booster 
