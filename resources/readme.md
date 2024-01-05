@@ -11,7 +11,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Free weekend - comptia, cisco, = Jan 2024
+### Free weekend - comptia, cisco, and more : Jan 2024
 https://www.linkedin.com/posts/activity-7148640636647137281-viAt
 
 ### Advent of Cyber 2023 - Machine learning, Security operations and engineering, Malware analysis, Penetration testing, Digital forensics and incident response
