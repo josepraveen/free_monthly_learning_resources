@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### OneTen/BIT Scholarship Program
+https://www.udacity.com/scholarships/oneten-bit-scholarship
+
 ### Free weekend - comptia, cisco, and more : Jan 2024
 https://www.linkedin.com/posts/activity-7148640636647137281-viAt
 
