@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free 91 google cloud skills boost credits
+https://www.linkedin.com/posts/activity-7153988379410407425-Hw86
+
 ### OneTen/BIT Scholarship Program
 https://www.udacity.com/scholarships/oneten-bit-scholarship
 
