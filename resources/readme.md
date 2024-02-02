@@ -11,14 +11,14 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free weekend - ceh, pentest+, aws pentest, owasp and more : Feb 2024
+https://www.linkedin.com/posts/activity-7158829884964769792-6iXA/
+
 ### free 91 google cloud skills boost credits
 https://www.linkedin.com/posts/activity-7153988379410407425-Hw86
 
 ### OneTen/BIT Scholarship Program
 https://www.udacity.com/scholarships/oneten-bit-scholarship
-
-### Free weekend - comptia, cisco, and more : Jan 2024
-https://www.linkedin.com/posts/activity-7148640636647137281-viAt
 
 ### Advent of Cyber 2023 - Machine learning, Security operations and engineering, Malware analysis, Penetration testing, Digital forensics and incident response
 https://tryhackme.com/room/adventofcyber2023
