@@ -11,7 +11,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Free weekend - ceh, pentest+, aws pentest, owasp and more : Feb 2024
+### Free weekend - CEH v.12, pentest+, aws pentest, owasp and more : Feb 2024
 https://www.linkedin.com/posts/activity-7158829884964769792-6iXA/
 
 ### free 91 google cloud skills boost credits
