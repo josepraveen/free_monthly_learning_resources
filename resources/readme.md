@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Python - free learning week
+https://www.linkedin.com/posts/activity-7161198081537966081-Sx0R
+
 ### free 50 google cloud skills boost credits
 https://www.linkedin.com/posts/activity-7161394314374180864-RjiZ
 
