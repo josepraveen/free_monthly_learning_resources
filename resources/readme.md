@@ -11,10 +11,13 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free 50 google cloud skills boost credits
+https://www.linkedin.com/posts/activity-7161394314374180864-RjiZ
+
 ### Free weekend - CEH v.12, pentest+, aws pentest, owasp and more : Feb 2024
 https://www.linkedin.com/posts/activity-7158829884964769792-6iXA/
 
-### free 91 google cloud skills boost credits
+### free 100 google cloud skills boost credits
 https://www.linkedin.com/posts/activity-7153988379410407425-Hw86
 
 ### OneTen/BIT Scholarship Program
