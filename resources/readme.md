@@ -12,7 +12,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
 ### 10 devops/ cloud limited time free udemy courses
-https://www.linkedin.com/posts/activity-7159923600626507777-WuWF
+https://www.linkedin.com/posts/activity-7169179922706391040-cOEY
 
 ### Python - free learning week
 https://www.linkedin.com/posts/activity-7161198081537966081-Sx0R
