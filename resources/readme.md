@@ -15,7 +15,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 https://www.linkedin.com/posts/activity-7184793387609272320-P_Sh
 
 ### Nvidia self-paced ai courses
-https://www.linkedin.com/posts/activity-7178299641032048642-hI__ 
+https://www.linkedin.com/posts/activity-7178299641032048642-hI__/ 
 
 ### kubernetes - capture the flag [free].
 https://www.linkedin.com/posts/activity-7174790512841748480-EsKy
