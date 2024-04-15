@@ -11,9 +11,15 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### 10 devops/ cloud limited time free udemy courses
-https://www.linkedin.com/posts/activity-7169179922706391040-cOEY
+### devops free week 
+https://www.linkedin.com/posts/activity-7184793387609272320-P_Sh
 
+### Nvidia self-paced ai courses
+https://www.linkedin.com/posts/activity-7178299641032048642-hI__
+
+### kubernetes - capture the flag [free].
+https://www.linkedin.com/posts/activity-7174790512841748480-EsKy
+ 
 ### Python - free learning week
 https://www.linkedin.com/posts/activity-7161198081537966081-Sx0R
 
