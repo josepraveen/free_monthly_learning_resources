@@ -14,7 +14,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 ### free exam - Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
 https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
 
-### limited time free devops courses
+### lifetime free devops courses - 1000 enrolments only
 https://www.linkedin.com/posts/activity-7190987872328376320-txkv
 
 ### devops free week 
