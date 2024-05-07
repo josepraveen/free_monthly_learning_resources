@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free 200 google cloud skills boost credits
+https://www.linkedin.com/posts/activity-7193574739636854784-B6Gk
+
 ### free exam - Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
 https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
 
