@@ -11,8 +11,14 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### free 200 google cloud skills boost credits
-https://www.linkedin.com/posts/activity-7193574739636854784-B6Gk
+### Free Download: Coding with AI For Dummies ($18 Value) eBook
+https://www.linkedin.com/posts/activity-7194537725515997185-OLuF
+
+### lifetime free azure labs course
+https://www.linkedin.com/posts/activity-7194186586761138178-I99C
+
+### Free Download: Principles of Data Science - Third Edition ($39.99 Value) ebook
+https://www.linkedin.com/posts/activity-7193822280810926080-aKoT
 
 ### free exam - Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
 https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
