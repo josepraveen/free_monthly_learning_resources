@@ -11,6 +11,18 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Vodacom Mozambique Foundation STEM Scholarship Program
+https://www.udacity.com/scholarships/vodacom-mozambique
+
+### Business Analyst Scholarship
+https://www.udacity.com/scholarships/oneten-bit-business-analytics-scholarship
+
+### Front End Web Developer Scholarship
+https://www.udacity.com/scholarships/oneten-bit-front-end-web-developer-scholarship
+
+### Digital Marketing Scholarship
+https://www.udacity.com/scholarships/oneten-bit-digital-marketing-scholarship
+
 ### Free Download: Coding with AI For Dummies ($18 Value) eBook
 https://www.linkedin.com/posts/activity-7194537725515997185-OLuF
 
@@ -46,9 +58,6 @@ https://www.linkedin.com/posts/activity-7158829884964769792-6iXA/
 
 ### free 100 google cloud skills boost credits
 https://www.linkedin.com/posts/activity-7153988379410407425-Hw86
-
-### OneTen/BIT Scholarship Program
-https://www.udacity.com/scholarships/oneten-bit-scholarship
 
 ### Advent of Cyber 2023 - Machine learning, Security operations and engineering, Malware analysis, Penetration testing, Digital forensics and incident response
 https://tryhackme.com/room/adventofcyber2023
