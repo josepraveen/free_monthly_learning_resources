@@ -12,7 +12,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
 
-### devsecops udemy - 1000 enrolments 
+### lifetime free devsecops courses - 1000 enrolments only
 https://www.linkedin.com/posts/jose-praveen_devsecops-devops-udemy-activity-7202689870287310848--69r
 
 ### free Generative AI for Executives and Business Leaders valued at 2419 INR!.
