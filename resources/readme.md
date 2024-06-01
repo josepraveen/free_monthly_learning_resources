@@ -11,6 +11,16 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+
+### devsecops udemy - 1000 enrolments 
+https://www.linkedin.com/posts/jose-praveen_devsecops-devops-udemy-activity-7202689870287310848--69r
+
+### free Generative AI for Executives and Business Leaders valued at 2419 INR!.
+https://www.linkedin.com/posts/jose-praveen_coursera-ibm-generativeai-activity-7202144198639165443-08pC
+
+### packtpub free week
+https://www.linkedin.com/posts/jose-praveen_free-gpt-aws-activity-7201946394767630338-YhQX
+
 ### Vodacom Mozambique Foundation STEM Scholarship Program
 https://www.udacity.com/scholarships/vodacom-mozambique
 
