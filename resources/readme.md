@@ -11,7 +11,14 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
- 
+### AWS exam voucher list 
+1) AWS developer exam 33% off https://www.youtube.com/shorts/W0-TbitWDDk 
+2) AWS cp or any associate exam 33% off https://www.youtube.com/shorts/EtJz5NQ8okw 
+3) AWS solution architect exam 33% off https://www.youtube.com/shorts/tJ7g9mbSJYI 
+
+### GenAI accelerator 10-week hybrid program
+https://aws.amazon.com/startups/accelerators/generative-ai
+
 ### free Generative AI for Executives and Business Leaders valued at 2419 INR!.
 https://www.linkedin.com/posts/jose-praveen_coursera-ibm-generativeai-activity-7202144198639165443-08pC
 
