@@ -11,6 +11,18 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 35 free Cloud Skills Boost credits every month.
+https://www.linkedin.com/posts/activity-7205489062344810496-1fLF 
+
+### cloud codelabs - bite-sized projects
+https://www.linkedin.com/posts/activity-7207215119477428225-O8B_ 
+
+### microsoft 50% off exam voucher - ai900 dp900 mb910
+https://www.linkedin.com/posts/activity-7208854979468554241-rglF 
+
+### {limited} free access to CompTIA learning material for certification (labs, practice exams & more included)
+https://www.linkedin.com/posts/activity-7130786568553824257-9gLs
+
 ### AWS exam voucher list 
 1) AWS developer exam 33% off https://www.youtube.com/shorts/W0-TbitWDDk 
 2) AWS cp or any associate exam 33% off https://www.youtube.com/shorts/EtJz5NQ8okw 
@@ -20,10 +32,10 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 https://aws.amazon.com/startups/accelerators/generative-ai
 
 ### free Generative AI for Executives and Business Leaders valued at 2419 INR!.
-https://www.linkedin.com/posts/jose-praveen_coursera-ibm-generativeai-activity-7202144198639165443-08pC
+https://www.linkedin.com/posts/activity-7202144198639165443-1RiR 
 
 ### packtpub free week
-https://www.linkedin.com/posts/jose-praveen_free-gpt-aws-activity-7201946394767630338-YhQX
+https://www.linkedin.com/posts/activity-7201946394767630338-On5I
 
 ### Vodacom Mozambique Foundation STEM Scholarship Program
 https://www.udacity.com/scholarships/vodacom-mozambique
