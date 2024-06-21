@@ -11,13 +11,16 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### microsoft 100% off exam voucher - ai-900, az-900, mb-910, mb-920, dp-900, ms-900, pl-900, sc-900
+https://www.linkedin.com/posts/activity-7199776939925004288-GRFm 
+
 ### 35 free Cloud Skills Boost credits every month.
 https://www.linkedin.com/posts/activity-7205489062344810496-1fLF 
 
 ### cloud codelabs - bite-sized projects
 https://www.linkedin.com/posts/activity-7207215119477428225-O8B_ 
 
-### microsoft 50% off exam voucher - ai900 dp900 mb910
+### microsoft 50% off exam voucher - az-900, dp-900, mb-910
 https://www.linkedin.com/posts/activity-7208854979468554241-rglF 
 
 ### {limited} free access to CompTIA learning material for certification (labs, practice exams & more included)
