@@ -23,7 +23,7 @@ https://www.linkedin.com/posts/activity-7207215119477428225-O8B_
 ### microsoft 50% off exam voucher - az-900, dp-900, mb-910
 https://www.linkedin.com/posts/activity-7208854979468554241-rglF 
 
-### {limited} free access to CompTIA learning material for certification (labs, practice exams & more included)
+### {limited, read T&C} free access to CompTIA learning material for certification (labs, practice exams & more included)
 https://www.linkedin.com/posts/activity-7130786568553824257-9gLs
 
 ### AWS exam voucher list 
