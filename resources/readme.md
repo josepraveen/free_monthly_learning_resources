@@ -20,6 +20,14 @@ https://www.linkedin.com/posts/activity-7205489062344810496-1fLF
 ### 50% off - MongoDB Associate Developer certification exam. 
 https://www.linkedin.com/posts/activity-7198166596119379969-1nAu
 
+### Oracle Cloud :cloud: free certification exam 
+1) Oracle Cloud Foundations Associate 
+https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
+2) Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
+https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
+3) Oracle Cloud Infrastructure 2023 AI Foundations Associate Exam
+https://www.linkedin.com/posts/activity-7130046088119554048-226R   
+
 ### free GitHub certification voucher. ( i think 4 series x 500 = 2000 vouchers }.
 https://www.linkedin.com/posts/activity-7198164563962339329-E0cy 
 
@@ -58,21 +66,6 @@ https://www.udacity.com/scholarships/oneten-bit-front-end-web-developer-scholars
 ### Digital Marketing Scholarship
 https://www.udacity.com/scholarships/oneten-bit-digital-marketing-scholarship
 
-### Free Download: Coding with AI For Dummies ($18 Value) eBook
-https://www.linkedin.com/posts/activity-7194537725515997185-OLuF
-
-### lifetime free azure labs course
-https://www.linkedin.com/posts/activity-7194186586761138178-I99C
-
-### Free Download: Principles of Data Science - Third Edition ($39.99 Value) ebook
-https://www.linkedin.com/posts/activity-7193822280810926080-aKoT
-
-### free exam - Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
-https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
-
-### lifetime free devops courses - 1000 enrolments only
-https://www.linkedin.com/posts/activity-7190987872328376320-txkv
-
 ### devops free week 
 https://www.linkedin.com/posts/activity-7184793387609272320-P_Sh
 
@@ -85,23 +78,14 @@ https://www.linkedin.com/posts/activity-7174790512841748480-EsKy
 ### Python - free learning week
 https://www.linkedin.com/posts/activity-7161198081537966081-Sx0R
 
-### free 50 google cloud skills boost credits
-https://www.linkedin.com/posts/activity-7161394314374180864-RjiZ
-
 ### Free weekend - CEH v.12, pentest+, aws pentest, owasp and more : Feb 2024
 https://www.linkedin.com/posts/activity-7158829884964769792-6iXA/
-
-### free 100 google cloud skills boost credits
-https://www.linkedin.com/posts/activity-7153988379410407425-Hw86
 
 ### Advent of Cyber 2023 - Machine learning, Security operations and engineering, Malware analysis, Penetration testing, Digital forensics and incident response
 https://tryhackme.com/room/adventofcyber2023
 
 ### Next Generation Tech Booster 
 https://www.udacity.com/scholarships/bertelsmann-next-generation-tech-booster
-
-### Oracle Cloud Infrastructure 2023 AI Foundations Associate Exam - free
-https://www.linkedin.com/posts/activity-7130046088119554048-226R
 
 ### Access 450+ interactive data and AI courses for free till November 12th 2023.
 https://www.linkedin.com/posts/activity-7127568525073780737-NXCG
@@ -198,12 +182,3 @@ https://www.linkedin.com/posts/activity-6940691067738497024-7ZmT
 
 ### Microsoft Advertising certifications now available for free. 
 https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
-
-### Oracle Cloud :cloud: free certification exam 
-1) Oracle Cloud Foundations Associate 
-https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
-2) Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
-https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
-   
-
-  
