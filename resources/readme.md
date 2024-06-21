@@ -17,6 +17,12 @@ https://www.linkedin.com/posts/activity-7199776939925004288-GRFm
 ### 35 free Cloud Skills Boost credits every month.
 https://www.linkedin.com/posts/activity-7205489062344810496-1fLF 
 
+### 50% off for a MongoDB Associate Developer certification exam. 
+https://www.linkedin.com/posts/activity-7198166596119379969-1nAu
+
+### free GitHub certification voucher. ( i think 4 series x 500 = 2000 vouchers }.
+https://www.linkedin.com/posts/activity-7198164563962339329-E0cy 
+
 ### cloud codelabs - bite-sized projects
 https://www.linkedin.com/posts/activity-7207215119477428225-O8B_ 
 
@@ -196,5 +202,8 @@ https://www.linkedin.com/posts/activity-6931097832443576320-cV6j
 ### Oracle Cloud :cloud: free certification exam 
 1) Oracle Cloud Foundations Associate 
 https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
+2) Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
+https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
+   
 
   
