@@ -14,10 +14,10 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 ### microsoft 100% off exam voucher - ai-900, az-900, mb-910, mb-920, dp-900, ms-900, pl-900, sc-900
 https://www.linkedin.com/posts/activity-7199776939925004288-GRFm 
 
-### 35 free Cloud Skills Boost credits every month.
+### Cloud Skills Boost - get free 35 credits every month.
 https://www.linkedin.com/posts/activity-7205489062344810496-1fLF 
 
-### 50% off for a MongoDB Associate Developer certification exam. 
+### 50% off - MongoDB Associate Developer certification exam. 
 https://www.linkedin.com/posts/activity-7198166596119379969-1nAu
 
 ### free GitHub certification voucher. ( i think 4 series x 500 = 2000 vouchers }.
