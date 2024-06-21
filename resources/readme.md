@@ -24,7 +24,7 @@ https://www.linkedin.com/posts/activity-7198166596119379969-1nAu
 https://www.linkedin.com/posts/activity-7198164563962339329-E0cy 
 
 ### cloud codelabs - bite-sized projects
-https://www.linkedin.com/posts/activity-7207215119477428225-O8B_ 
+https://www.linkedin.com/posts/activity-7207215119477428225-O8B_/
 
 ### microsoft 50% off exam voucher - az-900, dp-900, mb-910
 https://www.linkedin.com/posts/activity-7208854979468554241-rglF 
