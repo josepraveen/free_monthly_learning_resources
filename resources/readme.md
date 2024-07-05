@@ -11,6 +11,18 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free $25 AWS credits
+https://www.linkedin.com/posts/activity-7214809747881873408-YEh5
+
+### 50%-off Databricks certification voucher 
+https://www.linkedin.com/posts/activity-7214186356443373569-Wk8n
+
+### free hands-on aws temporary lab using  AWS Experience.
+https://www.linkedin.com/posts/activity-7210298392386707456-ybt2
+
+### free hands-on browser based devops labs
+https://www.linkedin.com/posts/activity-7209861597383544832-Vt
+
 ### microsoft 100% off exam voucher - ai-900, az-900, mb-910, mb-920, dp-900, ms-900, pl-900, sc-900
 https://www.linkedin.com/posts/activity-7199776939925004288-GRFm 
 
