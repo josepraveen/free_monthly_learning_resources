@@ -21,7 +21,7 @@ https://www.linkedin.com/posts/activity-7214186356443373569-Wk8n
 https://www.linkedin.com/posts/activity-7210298392386707456-ybt2
 
 ### free hands-on browser based devops labs
-https://www.linkedin.com/posts/activity-7209861597383544832-Vt
+https://www.linkedin.com/posts/activity-7209861597383544832-Vtld
 
 ### microsoft 100% off exam voucher - ai-900, az-900, mb-910, mb-920, dp-900, ms-900, pl-900, sc-900
 https://www.linkedin.com/posts/activity-7199776939925004288-GRFm 
