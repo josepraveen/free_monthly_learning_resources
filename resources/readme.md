@@ -129,6 +129,9 @@ https://explore.skillbuilder.aws/ (use the filter option)
 ### AWS Workshops
 https://workshops.aws/
 
+### collection of AWS-related content
+https://awsstash.com/
+
 ### AWS hands-on labs
 https://wellarchitectedlabs.com/
 
