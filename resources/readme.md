@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Getting Started with Industrial (ICS/OT) CyberSecurity - 20+ Hours - Full Course
+https://www.youtube.com/playlist?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g
+
 ### free devsecops labs
 1) https://www.linkedin.com/posts/activity-7222908088977088513-LUTo
 2) https://www.linkedin.com/posts/activity-7220284904427724800-_peJ
