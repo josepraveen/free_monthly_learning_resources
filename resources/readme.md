@@ -11,6 +11,13 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free devsecops labs
+1) https://www.linkedin.com/posts/activity-7222908088977088513-LUTo
+2) https://www.linkedin.com/posts/activity-7220284904427724800-_peJ
+3) https://www.linkedin.com/posts/activity-7212359357995393024-98Xr
+4) https://www.linkedin.com/posts/activity-7211694350215315456-okon
+5) https://www.linkedin.com/posts/activity-7211283785319915520-zEk6
+
 ### free $25 AWS credits
 https://www.linkedin.com/posts/activity-7214809747881873408-YEh5
 
