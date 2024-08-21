@@ -65,7 +65,8 @@ https://www.linkedin.com/posts/activity-7130786568553824257-9gLs
 ### AWS exam voucher list 
 1) AWS developer exam 33% off https://www.youtube.com/shorts/W0-TbitWDDk 
 2) AWS cp or any associate exam 33% off https://www.youtube.com/shorts/EtJz5NQ8okw 
-3) AWS solution architect exam 33% off https://www.youtube.com/shorts/tJ7g9mbSJYI 
+3) AWS solution architect exam 33% off https://www.youtube.com/shorts/tJ7g9mbSJYI
+4) AWS associate exam 50% off https://www.youtube.com/shorts/1rP-DUvTnOQ
 
 ### GenAI accelerator 10-week hybrid program
 https://aws.amazon.com/startups/accelerators/generative-ai
