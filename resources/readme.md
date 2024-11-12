@@ -11,8 +11,8 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Free Access Week | all 500+ courses | Aug 26 – Sept 1
-https://www.datacamp.com/blog/datacamp-free-access-week
+### Free Access Week | all 85+ courses
+https://365datascience.com/free-weeks-2024/
 
 ### Getting Started with Industrial (ICS/OT) CyberSecurity - 20+ Hours - Full Course
 https://www.youtube.com/playlist?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g
