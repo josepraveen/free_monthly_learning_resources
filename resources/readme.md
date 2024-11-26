@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Udacity Scholarship
+https://www.udacity.com/scholarships/bertelsmann-next-generation-tech-booster
+
 ### Free Access Week | all 85+ courses
 https://365datascience.com/free-weeks-2024/
 
