@@ -20,7 +20,7 @@ https://www.linkedin.com/posts/activity-7291005060866596864-OqNX
 ### free devops 101 labs
 https://www.linkedin.com/posts/activity-7288935122899283969-G6iu
 
-### one month free trial access to hashtag#CompTIA learning material
+### one month free trial access to CompTIA learning material
 https://www.linkedin.com/posts/activity-7288029699392315393-l07Y
 
 ### Udacity Scholarship
