@@ -11,6 +11,18 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free one week access to 100+ courses in DevOps and Cloud
+https://www.linkedin.com/posts/activity-7293243893423226880-4Ecu
+
+### get 35 free Cloud Skills Boost credits every month! 
+https://www.linkedin.com/posts/activity-7291005060866596864-OqNX
+
+### free devops 101 labs
+https://www.linkedin.com/posts/activity-7288935122899283969-G6iu
+
+### one month free trial access to hashtag#CompTIA learning material
+https://www.linkedin.com/posts/activity-7288029699392315393-l07Y
+
 ### Udacity Scholarship
 https://www.udacity.com/scholarships/bertelsmann-next-generation-tech-booster
 
@@ -25,21 +37,7 @@ https://www.youtube.com/playlist?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g
 2) https://www.linkedin.com/posts/activity-7220284904427724800-_peJ
 3) https://www.linkedin.com/posts/activity-7212359357995393024-98Xr
 4) https://www.linkedin.com/posts/activity-7211694350215315456-okon
-5) https://www.linkedin.com/posts/activity-7211283785319915520-zEk6
-
-### free $25 AWS credits
-https://www.linkedin.com/posts/activity-7214809747881873408-YEh5
-
-### free hands-on aws temporary lab using  AWS Experience.
-
-### free hands-on browser based devops labs
-https://www.linkedin.com/posts/activity-7209861597383544832-Vtld
-
-### microsoft 100% off exam voucher - ai-900, az-900, mb-910, mb-920, dp-900, ms-900, pl-900, sc-900
-https://www.linkedin.com/posts/activity-7199776939925004288-GRFm 
-
-### Cloud Skills Boost - get free 35 credits every month.
-https://www.linkedin.com/posts/activity-7205489062344810496-1fLF 
+5) https://www.linkedin.com/posts/activity-7211283785319915520-zEk6 
 
 ### Oracle Cloud :cloud: free certification exam 
 1) Oracle Cloud Foundations Associate 
@@ -48,12 +46,7 @@ https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
 https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
 3) Oracle Cloud Infrastructure 2023 AI Foundations Associate Exam
 https://www.linkedin.com/posts/activity-7130046088119554048-226R   
-
-### free GitHub certification voucher. ( i think 4 series x 500 = 2000 vouchers }.
-https://www.linkedin.com/posts/activity-7198164563962339329-E0cy 
-
-### {limited, read T&C} free access to CompTIA learning material for certification (labs, practice exams & more included)
-
+ 
 ### AWS exam voucher list 
 1) AWS developer exam 33% off https://www.youtube.com/shorts/W0-TbitWDDk 
 2) AWS cp or any associate exam 33% off https://www.youtube.com/shorts/EtJz5NQ8okw 
