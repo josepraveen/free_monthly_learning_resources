@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free ai week - datacamp
+https://www.datacamp.com/campaign/free-ai-access-week-2025
+
 ### free one week access to 100+ courses in DevOps and Cloud
 https://www.linkedin.com/posts/activity-7293243893423226880-4Ecu
 
