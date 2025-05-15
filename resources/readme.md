@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free MySQL training and certifications
+https://education.oracle.com/mysql-promo
+
 ### ZTA
 https://microsoft.github.io/zerotrustassessment/docs/intro
 
