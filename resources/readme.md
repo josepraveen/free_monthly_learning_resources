@@ -11,6 +11,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+###  50% discount Microsoft certification exam voucher for Power BI Data Analyst (exam PL-300), Fabric Analytics Engineer (exam DP-600) or Fabric Data Engineer (exam DP-700)
+https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Q0FNUEFJR05fMTc0OTIyNTI3NjQ4OQ==
+
+### AWS AI ML Scholars Challenge
+https://www.udacity.com/scholarships/aws-ai-ml-scholars
+
 ### AWS certification - 50% discount voucher 
 https://pages.awscloud.com/GLOBAL-other-GC-Traincert-Foundational-and-Associate-Certification-Challenge-2025-reg.html
 
@@ -67,19 +73,7 @@ https://www.linkedin.com/posts/activity-7130046088119554048-226R
 
 ### GenAI accelerator 10-week hybrid program
 https://aws.amazon.com/startups/accelerators/generative-ai
-
-### packtpub free week
-https://www.linkedin.com/posts/activity-7201946394767630338-On5I
-
-### devops free week 
-https://www.linkedin.com/posts/activity-7184793387609272320-P_Sh
-
-### Nvidia self-paced ai courses
-https://www.linkedin.com/posts/activity-7178299641032048642-hI__/ 
-
-### kubernetes - capture the flag [free].
-https://www.linkedin.com/posts/activity-7174790512841748480-EsKy
- 
+  
 ### Advent of Cyber 2023 - Machine learning, Security operations and engineering, Malware analysis, Penetration testing, Digital forensics and incident response
 https://tryhackme.com/room/adventofcyber2023
 
@@ -106,16 +100,7 @@ https://awsstash.com/
 
 ### AWS hands-on labs
 https://wellarchitectedlabs.com/
-
-### AWS Global Jam Competition: Next-Gen Infrastructure
-https://www.linkedin.com/posts/activity-7108106862784385026-ksNm
-
-### 133 cyber security training courses you can take now — for free
-https://resources.infosecinstitute.com/topic/13-cyber-security-training-courses-you-can-take-now-for-free/
-
-### Get Oracle Certified on Oracle Cloud Infrastructure for free through September 30, 2023 :cloud:
-https://www.linkedin.com/posts/activity-7070056813181767680-PHKK
-
+ 
 ### Large language model(LLM) Bootcamp - Spring 2023
 https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
 
@@ -127,6 +112,3 @@ https://www.youtube.com/@BuildOnAWS/videos
 
 ### AWS :cloud: - DevSecOps 
 https://awsworkshop.io/categories/devsecops/
-
-### CertiProf is still offering FREE certifications (total 4 certifications)
-https://www.linkedin.com/posts/activity-6940691067738497024-7ZmT
