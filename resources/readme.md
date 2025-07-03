@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### OCI | AI | Multicloud | Data - Get certified for free July 1 - October 31, 2025
+https://education.oracle.com/race-to-certification-2025
+
 ###  50% discount Microsoft certification exam voucher for Power BI Data Analyst (exam PL-300), Fabric Analytics Engineer (exam DP-600) or Fabric Data Engineer (exam DP-700)
 https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Q0FNUEFJR05fMTc0OTIyNTI3NjQ4OQ==
 
