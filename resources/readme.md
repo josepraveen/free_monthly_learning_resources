@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 90-Day Data Skills Certification Challenge | data science expertise certified for free
+https://www.knime.com/blog/the-90-day-certification-challenge
+
 ### free access to UiPath's comprehensive training and certification resources | June 2025 – January 2026
 https://community.uipath.com/events/details/uipath-learners-presents-uipath-community-certification-framework-program/
 
