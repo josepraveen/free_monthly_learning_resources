@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free access to UiPath's comprehensive training and certification resources | June 2025 – January 2026
+https://community.uipath.com/events/details/uipath-learners-presents-uipath-community-certification-framework-program/
+
 ### OCI | AI | Multicloud | Data - Get certified for free July 1 - October 31, 2025
 https://education.oracle.com/race-to-certification-2025
 
