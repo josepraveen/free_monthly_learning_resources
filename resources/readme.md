@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Microsoft Power Up Program | for free exam voucher read T&C page.
+https://powerup.microsoft.com/
+
 ### 90-Day Data Skills Certification Challenge | data science expertise certified for free
 https://www.knime.com/blog/the-90-day-certification-challenge
 
