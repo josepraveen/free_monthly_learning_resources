@@ -11,7 +11,16 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### Microsoft Power Up Program | for free exam voucher read T&C page.
+### Airflow 3 Certification for Free | read FAQ
+https://www.astronomer.io/lp/beyond-analytics-de/
+
+### SANS Cyber Academy Scholarship Program
+https://www.sans.org/cyber-academy
+
+### Free exam voucher SnowPro Associate: Platform Certification | read FAQ
+https://www.snowflake.com/events/snowflake-platform-training-august-2025/
+
+### Microsoft Power Up Program | for free exam voucher read T&C.
 https://powerup.microsoft.com/
 
 ### 90-Day Data Skills Certification Challenge | data science expertise certified for free
