@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 50% discount on AWS Certified AI Practitioner, Machine Learning Engineer, and Data Engineer certification exams
+https://pages.awscloud.com/GLOBAL-other-GC-AIML-Certification-Challenge-2025-reg.html
+
 ### Complete any course in the RIPE NCC Academy to claim your voucher and get certified for free
 https://www.linkedin.com/posts/ripe-ncc_summerschool-getcertified-certification-activity-7356654630199599106-J_LA
 
