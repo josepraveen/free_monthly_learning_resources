@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Learners get access to 135+ courses, plus real-world practice labs, at no cost for one week.
+ https://kodekloud.com/free-week 
+ 
 ### 50% discount on AWS Certified AI Practitioner, Machine Learning Engineer, and Data Engineer certification exams
 https://pages.awscloud.com/GLOBAL-other-GC-AIML-Certification-Challenge-2025-reg.html
 
