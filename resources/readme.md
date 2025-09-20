@@ -11,6 +11,15 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free Airflow 3 Fundamentals or DAG Authoring Certification code(normally $150)
+https://www.linkedin.com/posts/apache-airflow_airflowsurvey2025-apacheairflow-dataengineeringsurvey-activity-7373806938448605184-MZ1-
+
+### Free SnowPro Core Associate Exam Voucher
+https://www.snowflake.com/events/ascent-snowflake-platform-training/
+
+### Free CompTIA SecAI+ beta certification 
+https://www.comptia.org/en-us/experts/become-a-subject-matter-expert/workshops/secai-beta-exam/
+
 ### no-cost, generative AI training and certification program for veterans
 https://cloud.google.com/blog/topics/training-certifications/register-for-the-gen-ai-training-and-certification-program-for-veterans
 
