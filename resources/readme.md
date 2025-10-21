@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 500 free certification exams through Cohesity Academy. 
+https://www.linkedin.com/posts/cohesity_train-with-experts-certify-for-free-activity-7386023544931069952-aunc
+
 ### Free Airflow 3 Fundamentals or DAG Authoring Certification code(normally $150)
 https://www.linkedin.com/posts/apache-airflow_airflowsurvey2025-apacheairflow-dataengineeringsurvey-activity-7373806938448605184-MZ1-
 
