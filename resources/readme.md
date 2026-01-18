@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### Free CASA exam voucher from APIsec University
+https://www.linkedin.com/posts/apisec-university_free-casa-and-discounted-ascp-is-up-for-grabs-activity-7410016995926253568-Nu8t
+
 ### udemy course- 100% off coupons
 https://real.discount/courses
 
