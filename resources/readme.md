@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### AWS AI & ML Scholars program - free
+https://www.udacity.com/scholarships/aws-ai-ml-scholars
+
 ### Kodekloud Free week Feb 10 - Feb 17
 https://kodekloud.com/free-week
 
