@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 50% discount on any Databricks Certification
+https://community.databricks.com/t5/learning-events/advanced-learning-festival-15-june-06-july-2026/ec-p/156932#M8805
+
 ### AWS AI & ML Scholars program - free
 https://www.udacity.com/scholarships/aws-ai-ml-scholars
 
