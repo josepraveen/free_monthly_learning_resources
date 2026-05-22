@@ -35,14 +35,7 @@ https://www.youtube.com/playlist?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g
 3) https://www.linkedin.com/posts/activity-7212359357995393024-98Xr
 4) https://www.linkedin.com/posts/activity-7211694350215315456-okon
 5) https://www.linkedin.com/posts/activity-7211283785319915520-zEk6 
-
-### Oracle Cloud :cloud: free certification exam 
-1) Oracle Cloud Foundations Associate 
-https://www.linkedin.com/posts/activity-6933893387716550656-8TUD
-2) Oracle Cloud Infrastructure 2024 Generative AI Professional (1Z0-1127-24)
-https://www.linkedin.com/posts/activity-7190899651175157760-FyW8
-3) Oracle Cloud Infrastructure 2023 AI Foundations Associate Exam
-https://www.linkedin.com/posts/activity-7130046088119554048-226R   
+ 
  
 ### AWS exam voucher list 
 1) AWS developer exam 33% off https://www.youtube.com/shorts/W0-TbitWDDk 
