@@ -11,7 +11,7 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
-### 100% off a Microsoft Certification exam
+### 100% off on Microsoft Certification exams
 https://aiskillsnavigator.microsoft.com/events/AISF2026 (refer unlock perks section)
 
 ### 50% discount on any Databricks Certification
