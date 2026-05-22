@@ -17,15 +17,6 @@ https://aiskillsnavigator.microsoft.com/events/AISF2026 (refer unlock perks sect
 ### 50% discount on any Databricks Certification
 https://community.databricks.com/t5/learning-events/advanced-learning-festival-15-june-06-july-2026/ec-p/156932#M8805
 
-### AWS AI & ML Scholars program - free
-https://www.udacity.com/scholarships/aws-ai-ml-scholars
-
-### Kodekloud Free week Feb 10 - Feb 17
-https://kodekloud.com/free-week
-
-### Free CASA exam voucher from APIsec University
-https://www.linkedin.com/posts/apisec-university_free-casa-and-discounted-ascp-is-up-for-grabs-activity-7410016995926253568-Nu8t
-
 ### udemy course- 100% off coupons
 https://real.discount/courses
 
