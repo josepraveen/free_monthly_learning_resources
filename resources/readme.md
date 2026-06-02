@@ -11,6 +11,12 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### mastermind ISO 27701 LA free till june 2026
+https://learn.mastermindassurance.com/products/courses/iso-27701-lead-auditor
+
+### access 600+ courses on datacamp- free week end june 7,2026
+https://www.datacamp.com/campaign/free-access-week-june-2026
+
 ### 100% off on Microsoft Certification exams
 https://aiskillsnavigator.microsoft.com/events/AISF2026 (refer unlock perks section)
 
