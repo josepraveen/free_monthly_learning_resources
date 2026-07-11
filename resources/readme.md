@@ -11,6 +11,14 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### free exam voucher - DP-600 or DP-700 or DP-800 
+https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Y2FtcGFpZ24tMTc4MTEyMjc2OTc0NA==
+
+### free exam -  Agentic AI Foundations Associate (1Z0-1157-26)
+https://blogs.oracle.com/oracleuniversity/oracle-agentic-ai-foundations-training-certification-now-available
+
+## free exam - SAS certification
+https://www.sas.com/en_us/certification/discounts/student-certification.html
 
 ### 50% OFF on Zscaler Certification exam
 https://www.linkedin.com/posts/celebrate-americas-250th-birthday-share-7481075390313107457-UXby/
