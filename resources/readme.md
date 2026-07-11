@@ -11,6 +11,13 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+
+### 50% OFF on Zscaler Certification exam
+https://www.linkedin.com/posts/celebrate-americas-250th-birthday-share-7481075390313107457-UXby/
+
+### 80% off on AZ-802 (beta) with code AZ802Chandler on or before July 22, 2026.
+https://techcommunity.microsoft.com/blog/skills-hub-blog/new-exam-for-microsoft-certified-windows-server-administrator-associate-certific/4494120
+
 ### mastermind ISO 27701:2025 LA free till june 2026
 https://learn.mastermindassurance.com/products/courses/iso-27701-lead-auditor
 
