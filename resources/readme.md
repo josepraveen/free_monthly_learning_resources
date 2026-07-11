@@ -26,18 +26,6 @@ https://www.linkedin.com/posts/celebrate-americas-250th-birthday-share-748107539
 ### 80% off on AZ-802 (beta) with code AZ802Chandler on or before July 22, 2026.
 https://techcommunity.microsoft.com/blog/skills-hub-blog/new-exam-for-microsoft-certified-windows-server-administrator-associate-certific/4494120
 
-### mastermind ISO 27701:2025 LA free till june 2026
-https://learn.mastermindassurance.com/products/courses/iso-27701-lead-auditor
-
-### access 600+ courses on datacamp- free week ends june 7,2026
-https://www.datacamp.com/campaign/free-access-week-june-2026
-
-### 100% off on Microsoft Certification exams
-https://aiskillsnavigator.microsoft.com/events/AISF2026 (refer unlock perks section)
-
-### 50% discount on any Databricks Certification
-https://community.databricks.com/t5/learning-events/advanced-learning-festival-15-june-06-july-2026/ec-p/156932#M8805
-
 ### udemy course- 100% off coupons
 https://real.discount/courses
 
