@@ -17,7 +17,7 @@ https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?camp
 ### free exam -  Agentic AI Foundations Associate (1Z0-1157-26)
 https://blogs.oracle.com/oracleuniversity/oracle-agentic-ai-foundations-training-certification-now-available
 
-## free exam - SAS certification
+### free exam - SAS certification
 https://www.sas.com/en_us/certification/discounts/student-certification.html
 
 ### 50% OFF on Zscaler Certification exam
