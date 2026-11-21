@@ -11,6 +11,9 @@ https://github.com/josepraveen/free_monthly_learning_resources/blob/main/resourc
 
 # DISCLAIMER: Please review the privacy policies, terms and conditions of the websites listed below.
 
+### 50% off on any databricks certification.
+https://community.databricks.com/t5/learning-events/databricks-advanced-learning-festival-november-10-december-08/ec-p/172328#M10615
+
 ### free exam voucher - DP-600 or DP-700 or DP-800 
 https://community.fabric.microsoft.com/t5/custom/page/page-id/campaign_form?campaignID=Y2FtcGFpZ24tMTc4MTEyMjc2OTc0NA==
 
